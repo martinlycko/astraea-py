@@ -1,0 +1,48 @@
+https://www.linkedin.com/jobs/view/4106234949/?eBP=CwEAAAGT6Lg3L4iDPivT5RmIVvaRQxiCSZqME6Al-66yNirMFJ665FY-ibLZbTtdhDFf1DlejY7PBExA_U6cVLMf1Lqlon2hhFCa7_AZ8dVGb8CyGJuTG0nT2-CD9O0moguRYNejSu9HwZPnDz4jJ5FjOuqsVJy7JrZgv2BZ6zxJMxd6V4I0o2IU_2FIAdYacRy2ov7ORPYlJVW1H3fNPG02Ocqawih80CHXcRTF5epBQebkcJLmOAYy-kX1P_XysPcyyD7aoNdvoctoIKhglbvT7xiqc914OmF6SD6aHZyc9369ogtwPkGBHpdew0fN6J2kygXYQ0Hi2pvoVOX6pDC_UCvy8xSRY7-5vpqmv3_mlxPh8a_NywVukzfZ0UuCp60CGbOXIPkx2B7KqvwlPfyZNVdqKNi3L6LX8VIMaickHvclMc96nnkOwqTl6JWYoAjlngu9QvjRDBJItUeF3IC9tjbXsoWzzAFvu8bp3nPz&refId=W82WA9oiKdn9%2F9IqjzVYlg%3D%3D&trackingId=JeRVjFOAz7y50miHvYaPKw%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Role: Business Intelligence Senior Analyst (Alteryx specialist)
+
+Salary: Up to £65,000
+
+Location: Bank (2 days per week in the office)
+
+ 
+
+Role Overview:
+
+Our client, a prominent name in the betting industry, is seeking a talented and proactive Business Intelligence Snr Analyst to join their Finance Business Intelligence and Analytics team. This team plays a crucial role in the business by providing essential financial figures for statutory and daily reporting across all divisions and geographies within the Group.
+
+The successful candidate will play a key role in developing and implementing a comprehensive business intelligence strategy across the Group. This involves ensuring that financial metrics are defined accurately and consistently and delivered in a timely manner. The role requires translating financial terms into data definitions and developing sustainable solutions for presenting these metrics.
+
+ 
+
+Key Responsibilities:
+
+Responsible for delivering daily Revenue Files for a specific business unit within the Group, ensuring effective and compliant controls and checks.
+Contribute to the strategic design and maintenance of global business intelligence applications.
+Develop and understand data definitions behind financial metrics, ensuring their consistent use across the Group.
+Serve as a key liaison between the Data team and the business, fostering relationships to ensure all perspectives are considered.
+Maintain and critically evaluate the control environment, particularly with regard to SOX requirements.
+Assist in onboarding additional brands into the Finance Data Delivery Model, including building and orchestrating revenue files.
+Provide technical assistance and cross-training to team members.
+Translate business requirements into specifications for data warehouse design and configuration.
+Collaborate with core Finance Teams to meet statutory requirements and provide information for external auditors as needed.
+Utilise ETL tools to automate data storage and streamline processes.
+Design and implement technology best practices, guidelines, and repeatable processes.
+ 
+
+Skills & Experience:
+
+Strong Alteryx skills
+Experience with BI reporting and data visualisation solutions (Looker expertise is highly advantageous).
+Understanding of financial terms and definitions.
+Interest in sports and betting.
+Proficiency in SQL modeling, querying relational databases, and adhering to best practices.
+Knowledge of ETL tools.
+Professional and positive approach with excellent time management, organisational, and multi-tasking skills.
+Proactive and innovative mindset with the initiative to identify process improvements and assist in their implementation.
+Excellent communication skills, essential for effective team and business-wide interactions.
+Flexible and thrives in a frequently changing, fast-paced environment.
+ 
+
+This is a fantastic opportunity for a driven individual to significantly contribute to the business intelligence strategy within a leading organisation in the finance and betting industry. If you possess the relevant skills and experience, we encourage you to apply and join a team dedicated to excellence and innovation.

@@ -1,0 +1,90 @@
+https://www.linkedin.com/jobs/view/4104756698/?eBP=CwEAAAGT6LVvVvTr9LF32dnHR760agSLWK8G_tQlx7g3V7ecfVs0aRE8wgoW42QR8Vkz0H_s0phG0mXvZpftuQmF2ZdfTmZeJlcntoho5_MLOhPLoywIsQNOiAnM0j4byCUMdfPRXnFOwAViJXPro4POXjEDzwxE4tU-VXYCNk-Q3ISzZyW_YD7lYpEhJeZmc6msfaCDioT9D9sNl7dsw_XOMaOcHvd3qFkDS0Ayg8b9RmG5OkSbtKRg0XbJGxYI7JviSLXZuYxdpzU05BRgDWaCD3OMYykVRn3TdvX0sskDJIek4Fb8XyWVJJKubtJv3wdZsH-yC75MjKNRndKC2NRgJW0MGDS8nnIqH0HNpi6FBYX_5R1Jwyymsgw5Rrl_SYJK7jsj1VtE-HOLYS3_H1O1JIVX_e4CigycsvIYAu8PvMwKsne_z5Ivq4L7bBMFmqMUV69n9yru-B7pSwuDcfStekU34ZnROK1klIKydquJhaTOJA&refId=5TULHrqg3RTVDl%2Fcgs66bw%3D%3D&trackingId=Lu5J6fpOY%2F%2FPzztlJrjGlQ%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+At Capgemini Invent, we believe difference drives change. As inventive transformation consultants, we blend our strategic, creative and scientific capabilities, collaborating closely with clients to deliver cutting-edge solutions. Join us to drive transformation tailored to our client's challenges of today and tomorrow. Informed and validated by science and data. Superpowered by creativity and design. All underpinned by technology created with purpose.
+
+Your Role
+
+You will be joining the Data and AI Advisory team where we collaborate with our clients to improve their use of data and enable them to become truly data-driven enterprises. You will have the opportunity to work and gain experience across many industries. In this role, you will work directly with organisations, leaders, and domain experts involved with the delivery of industry-leading initiatives and contributing to the efforts to harness the potential of data analytics. You will be involved in developing and delivering critical, accurate insights from raw client data and producing a compelling story to drive change in the organisation.
+
+As an Analytics & Insights Consultant/Senior Consultant, in the business you’ll help set the direction, driving forward the business, model our values and behaviours, and coach and develop junior members of the team.
+
+Key expectations from this role include:
+
+ Develop your experience in innovative areas including generative AI, user-centred design, advanced analytics, machine learning, data visualisation, data modelling and wrangling, as well as analytics governance.
+Employ your Analytics and AI skills and experience to help our clients develop data products and models, engineer insights, roll out analytical tools, and scale their data capabilities.
+Work collaboratively with our clients to answer their business questions and drive bottom-line performance improvement through Analytics and AI.
+Co-create and co-design data and intelligence products with stakeholders to convert analysis into insight to be consumed rapidly, addressing data needs of senior leaders in the sector and having a direct impact on service delivery and consumers.
+Develop and apply your consulting skills, creativity, and logical thinking to plan, manage, and deliver workstreams that help our clients extract value from their data
+
+As part of your role you will also have the opportunity to contribute to the business and your own personal growth, through activities that form part of the following categories:
+
+Business Development – Leading/contributing to proposals, RFPs, bids, proposition development, client pitch contribution, client hosting at events.
+Internal contribution – Campaign development, internal think-tanks, whitepapers, practice development (operations, recruitment, team events & activities), offering development.
+Learning & development – Training to support your career development and the skills demand within the company, certifications etc.
+
+Your Profile
+
+We are looking for passionate and curious problem solvers, who have most or all of the following:
+
+An understanding of end-to-end data analytics projects, from initial requirements gathering to implementation and adoption.
+Excellent presentation skills and the ability to communicate issues and solutions to a variety of colleagues and stakeholders (e.g., facilitating client workshops, managing key clients, distilling information and storytelling relevant to the specific audience).
+Proficiency in user-centred design processes including user research, creating personas and defining user journeys.
+Proficiency in creating wireframes, mockups, and interactive prototypes for data and intelligence products.
+An understanding of key data modelling concepts (e.g., fact and dimension tables, star schemas and snowflake schemas, tables and denormalised tables, views, and schemas).
+Experience with data handling, e.g., data querying, data manipulation, data interrogation or data wrangling to clean and process to transform raw data into the desired format for analytics and visualisation.
+Hands-on experience with data analytics, including accurate statistical analysis, and the ability to visualise and interpret the results for senior business stakeholders.
+Experience in producing dashboards and interactive visual reports using several BI tools such as Power BI, Tableau, Qlik, Looker, Alteryx… etc.
+Proven ability to be successful in a matrixed organisation, and to enlist support and commitment from peers in selling and delivering consulting solutions.
+Experience of proposition building and delivery. 
+Currently working in a major Consulting firm, and/or in industry but having a Consulting background.
+
+Experience in one or more of the following areas would be advantageous but not essential:
+
+Experience in languages used for querying and manipulating data e.g., SQL, R or Python.
+Experience in using NLP, semantic models and sentiment analysis.
+Experience delivering an outstanding UX, leaning on visualisation best practices.
+An awareness of data and technology landscapes, including knowledge of some tooling and platform options (e.g., visualisation tools, data warehousing platforms, data preparation platforms, statistical analysis tools).
+Experience in developing solutions using any of the following: Google Cloud Platform; Amazon Web Services; Microsoft Azure.
+An understanding of good data management practices, supported by experience using data lineage mapping tools such as Collibra, Talend, Informatica… etc.
+Experience applying machine learning concepts and tools, or interpreting their outputs.
+Experience with developing end-to-end pipelines including quality assuring and interrogating the end result for accuracy and validity compared to source
+
+WHAT YOU’LL LOVE ABOUT WORKING HERE?
+
+No matter the project or customer, your work will have a meaningful impact on society, businesses and lives. It’s really rewarding. And it’s also really varied. You’ll potentially work on a huge variety of projects (some larger than others), so you could gain lots of experience in a short amount of time.
+
+We are delighted to have received the “Glassdoor Best Places to work UK’ accolade for 4 consecutive years, to see what it’s like to work at Capgemini Invent, visit our Glassdoor page
+
+Flexibility to work your way
+
+You will be encouraged to have a positive work-life balance. Our hybrid-first way of working means we embed hybrid working in all that we do and make flexible working arrangements the day-to-day reality for our people. All UK employees are eligible to request flexible working arrangements.
+
+Shape your path
+
+You will be empowered to explore, innovate, and progress. You will benefit from Capgemini’s ‘learning for life’ mindset, meaning you will have countless training and development opportunities from thinktanks to hackathons, and access to 250,000 courses with numerous external certifications from AWS, Microsoft, Harvard ManageMentor, Cybersecurity qualifications and much more.
+
+NEED TO KNOW
+
+At Capgemini we don’t just believe in Diversity & Inclusion, we actively go out to making it a working reality. Driven by our core values and Active Inclusion Campaign, we build environments where you can bring you whole self to work.
+
+We aim to build an environment where employees can enjoy a positive work-life balance. We embed hybrid working in all that we do and make flexible working arrangements the day-to-day reality for our people. All UK employees are eligible to request flexible working arrangements.
+
+Employee wellbeing is vitally important to us as an organisation. We see a healthy and happy workforce a critical component for us to achieve our organisational ambitions. To help support wellbeing we have trained ‘Mental Health Champions’ across each of our business areas. We have also invested in wellbeing apps such as Thrive and Peppy.
+
+CSR:
+
+We’re also focused on using tech to have a positive social impact. So, we’re working to reduce our own carbon footprint and improve everyone’s access to a digital world. It’s something we’re really serious about. In fact, we were even named as one of the world’s most ethical companies by the Ethisphere Institute for the 10th year. When you join Capgemini, you’ll join a team that does the right thing.
+
+Whilst you will have London, Manchester or Glasgow as an office base location, you must be fully flexible in terms of assignment location, as these roles may involve periods of time away from home at short notice.
+
+We offer a remuneration package which includes flexible benefits options for you to choose to suit your own personal circumstances and a variable element dependent grade and on company and personal performance.
+
+About Capgemini Invent
+
+As the digital innovation, design and transformation brand of the Capgemini Group, Capgemini Invent enables CxOs to envision and shape the future of their businesses. Located in more than 36 offices and 37 creative studios around the world, it comprises a 10,000+ strong team of strategists, data scientists, product and experience designers, brand experts and technologists who develop new digital services, products, experiences and business models for sustainable growth.
+
+Capgemini Invent is an integral part of Capgemini, a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of 340,000 team members in more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fuelled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2023 global revenues of €22.5 billion.
+
+Our brand promise “Get The Future You Want” reflects our passion for people and technology and highlights the company’s commitment to inclusion and sustainability.
+
+An important aspect of ‘Get the Future You Want’ is to balance hybrid ways of working between your Capgemini office, home, and client location (where applicable). We recognise that it is an imperative to create flexibility so you can enjoy an optimal work-life balance and feel empowered to achieve success. When you come onboard, or before, please discuss this with your manager so you can agree the best ways of working for your role, team, and client.

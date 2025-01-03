@@ -1,0 +1,43 @@
+https://www.linkedin.com/jobs/view/4095502913/?eBP=CwEAAAGUIrzaoXTdszdNy80BYgkwoemIqc-GUxxuDF6zNLvlmIGIW7BtiWclociYYEiJHjyleKpiExpp5KMzSPuhbnbp18x9xX00J0Rjzq4Y39bdzT42aOpHb51CTdnFtqIIE33tiSyF7EX1_dMCnwt7tNVgdV_GCN_qeNuXA9BjthLDhiBETl2MV6aB9O0okwIRQFjJfdjIiSv-gMC7WsA6jJJNBkold34XG4cvtsofJooFT87ApXMyfTunViAjKaVBXNakk1FZTFJ8xOUIwgbjUVjA30aK_elPnRA3XwT0oIDHAuZs9WxswVdU5wPr5jC8FpQKgUNeiIe4Uu7NCNRzxdVm4FP4kyBw8BR_UXSqAhD3bDh7lJJ4wBrLT5BVLMMjRewV38p-wuXWk5ZGbicM3JKp_5eNes8l8U2W_adSlCVtnBnsBWN2-QeWqYKqx3kbna7I7QIqpzE353q7LClunhTrOMkSTXRg2D7bcz_U&refId=0AFgy%2FmiwDKzfp9PLFLAKg%3D%3D&trackingId=OxAuPuZlvQOvFZXuz%2FqiPA%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+
+3 month Initial Contract role
+
+Hybrid working from one of our Regional Centres
+
+Role
+
+Senior Performance Analysts plays a key leadership role in developing performance measurement frameworks, including defining Key Performance Indicators (KPIs), goals, user needs, and benefits. You will lead the analysis of services and products against these frameworks, adapting approaches and metrics as needed to meet evolving business needs.
+
+In HMRC, Senior Performance Analysts collaborate closely with product teams and stakeholders to ensure data-driven improvements to services and products. You will guide teams in effective use of data, influence decisions, and ensure alignment between performance outcomes and user needs.
+
+Main Duties
+
+As a Senior Performance Analyst, you will:
+
+Lead performance analysis efforts across projects, providing expertise in both analysis and measurement frameworks.
+Develop and implement robust performance measurement frameworks, including advising on data sources, measurement platforms, and data validation.
+Define and communicate "what good looks like" for service or product performance, establishing clear metrics and benchmarks.
+Lead collaboration across multidisciplinary teams to deliver meaningful insights and help shape product development.
+Act as a key point of contact for performance analysts within the organization, sharing insights, best practices, and supporting knowledge transfer to the wider performance analysis community.
+Adapt analysis techniques to a range of contexts and projects, ensuring that the methods applied are suitable for the project goals.
+Ensure data-driven decision making by presenting findings to senior stakeholders, including translating complex data insights into clear, actionable recommendations.
+Take responsibility for the accuracy and quality of data and analysis for your direct reports, and the actions that are taken because of those analyses.
+Represent the performance analysis profession within HMRC, contributing actively to community development and the advancement of analytical capabilities.
+Identify and implement opportunities to continuously improve service or product performance through data insights and performance analysis.
+
+
+You can:
+
+Collect and analyse data from multiple sources including the Customer Insight Platform.
+Write and optimise intermediate SQL queries with a solid understanding of functions such as:
+
+
+SELECT, WHERE, LIKE, IS, IN, AND, OR, NOT, SUM, COUNT, GROUP BY, ORDER BY, JOIN statements, UNION, Subqueries, CASE statements & Common Table Expressions
+
+
+
+Prepare and transform data in Power BI for advanced visualisations and interactive dashboards including data modelling and DAX functions.
+Demonstrate awareness of other programming languages such as Python & R, understanding their applications in data analysis, modelling, and automation.
+Understand the limitations of digital technology, advising on technical feasibility and data constraints.
+Stay up to date with emerging technologies and best practice.

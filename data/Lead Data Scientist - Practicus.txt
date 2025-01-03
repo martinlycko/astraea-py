@@ -1,0 +1,56 @@
+Link: https://www.linkedin.com/jobs/view/4083341849/?eBP=CwEAAAGTkyxoJPc1rxwowCdg92aeF5yh_z824vV9sAjRR1h6Hwt8xEIRgCHs4_GS0nvl2SBj20uo_7asUXggnqiTZr5OLmXcW47f5QhC_c4Sbtu2XSQp99o9nZp2phALvJOdrKH8B_oYOyf-A8ThBLhx7w5RgvyQuiaekLNPCchR7H5ZH8CGNfAWJcxb7YjHS9XiLhBtn8Cla5RwPfQA5qqfNsJdS7aDXwCaEp9__Cj-rgdN3hnLRkGUZ-hrIIepwJWKyUCrvTV0A8zPXGRm1tRTFxmBca6KA9Gskry0zBP2qBfYZFiowlHiLfje7FbayY8gBuuArHey0U2hxiuUnWS55yw3eROyA_Qh9Ae9C4hDa6x2wB6NqkfmRoX4GBJkTKoTfQOI9EHhYwk4urQLwsxeJQGNptbXwXf0EssMv5U5s9sCaT7GOLLDmBME1fVU_htypJqb5YbdsE7Do8ciDhFYeOQFQ7w14JLDI9Lk1wi-NPZQmw&refId=lB2IgipZpUT%2FKxVek5o84A%3D%3D&trackingId=tiZeAv3kd2t1vWZuqy%2B1gg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+Title: Lead Data Scientist
+Company: Practicus
+
+Location: Wallingford
+Workmode: Remote
+
+Hours: Full-time
+Contract: Permanent
+Salary: 49000-58000
+
+Skills: Python (Programming Language), Data Science, Large Language Models (LLM), Artificial Intelligence (AI), Communication, Stakeholder Management, Retrieval-Augmented Generation (RAG), Datasets, Statistical Analysis, Pattern Recognition
+
+Description:
+We are currently partnered with an international, intergovernmental, not-for-profit organization that improves people’s lives worldwide by solving problems in agriculture and the environment. 
+
+
+
+We are seeking an experienced and highly organised Data Scientist with expertise in large language models for unstructured analysis to support evidence-informed decision making in international agriculture and food systems
+
+
+
+The ideal candidate will possess a strong background in data science, machine learning, and natural language processing, with the ability to handle large and varied datasets.
+
+
+
+The Data Scientist will work concurrently with multiple research teams, conducting needs assessments and delivering data science support. They will modify and leverage existing models, suggest improvements for features-engineering based tasks for data classification, labelling, extraction, and synthesis, and create user-friendly approaches for reviewing machine-based outputs.
+
+
+
+What You Will Do:
+
+Manage data science projects within a set environment of evidence informed decision making, including defining project objectives, refining existing models, and delivering insights and results to research teams. 
+Analyse large unstructured datasets to extract valuable insights and trends that can inform decisions.
+Augment and deploy machine learning models to address open-ended issues and improve processes for evidence-informed decision making. 
+Build and train statistical models and machine learning algorithms for replication in future projects. 
+Work with colleagues to support ongoing development of production models and make them available at scale. 
+Collaborate with cross-functional teams of people with diverse backgrounds.
+Knowledge about ethical use of AI while experimenting with AI/ML models. 
+Experience with testing and reporting results of AI-models. 
+Establish and manage GitHub repository using best practices.
+
+
+Education and Qualification:
+
+Master's Degree in Statistics, Data Science, Computer Science, or relevant quantitative engineering fields (or equivalent combination of education and experience). 
+Minimum of 2 years of data and statistical analysis, preferably with large or unstructured datasets. data science or machine learning engineering experience, including delivering high-quality data science solutions to stakeholders or deploying machine learning solutions into production
+
+
+Some of the benefits are listed below:
+
+Defined contribution pension scheme with employee contribution that the client will double-match up to 10% of gross salary
+37 days of annual leave (including bank holidays and the 3 days between Christmas and New Year), rising to 42 days
+Income protection plans, life assurance and long service awards
+Flexible working options including family friendly policies
+Long Service Awards, Employee Recognition Scheme, Personal Accident and Business Travel Insurance, Medical Insurance Scheme

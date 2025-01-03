@@ -1,0 +1,44 @@
+https://www.linkedin.com/jobs/view/4099770967/?eBP=CwEAAAGT6LVvVnoqHU3rz3iPTaK_Z6iavYaXbc9hFtVoY7UEnoTwtCqwpUAWwMcUvmG7W9GbrBxGIQwOgahldazC3cTk6650M0UugFx3FKBy_nJm91BCjvh3LkaMsXqgx0A70EdjMv97dJdgmKjVLq3-4McEhEFxTB3fYgEr7O1alKVaVKltaGObLD-NBrcD1KSlZgvPLEkjZEG0rXi79AlDb4dx-JS5Fn6_ErybdUQPuYaSny1n0DTqijK6c3564z5mI7KpCEjF7shlxB1mxwnCW-BZx_EJddRzbmivhB4KtaYVU79sRlJeMMZIe10aE58_E9jdyNjEEO99SC5swziGt4DV8EtGSphG5YbIRSEGercun-wjXTsDKCnliL3FNkSI5aGHJNzBXkVCjsKQ5wJA0LLh8cCgah6SIrhB2n_06MI7964g6k20oBxOdSJee2K1oKDkcq5L1raE50qyP5iM-VwK0qVD_DD4H4SD35yN0t0&refId=5TULHrqg3RTVDl%2Fcgs66bw%3D%3D&trackingId=diw3iUlSEzHoylC%2BIKqjkQ%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Who We Are
+
+Zynga is a global leader in interactive entertainment with a mission to connect the world through games and a wholly-owned subsidiary of Take-Two Interactive Software, Inc. (NASDAQ: TTWO). With massive global reach in more than 175 countries and regions, the combined diverse portfolio of popular game franchises has been downloaded more than 6 billion times on mobile, including Star Wars™: Hunters, CSR Racing™, Dragon City, Empires & Puzzles™, FarmVille™, Golf Rival™, Hair Challenge™, Harry Potter: Puzzles & Spells™, High Heels!™, Merge Dragons!™, Merge Magic!™, Monster Legends, Toon Blast™, Top Eleven, Toy Blast™, Two Dots, Words With Friends™, and Zynga Poker™.Founded in 2007, Zynga is headquartered in California with locations in North America, Europe, and Asia. For more information, visit www.zynga.com or follow Zynga on Twitter, Instagram, Facebook, or the Zynga blog
+
+Gram Games is the studio behind popular titles like 1010!, Six!, Merge Dragons!, and Merge Magic!, with more exciting projects in the pipeline. We are proudly a part of the Zynga & Take-Two Interactive family. We do things differently here: we work in small self-managing teams, giving you an incredible amount of ownership, autonomy, and impact.
+
+At Gram, everyone is expected to have a razor-sharp focus on creating a tangible impact on their team, their work environment, and on the overall company strategy. If you are motivated by autonomy, constant improvement, collaboration, and a sense of belonging, this is the place for you.
+
+Position Overview
+
+As a Data Analyst you will play a key role in driving Gram Games' data-driven culture. Working closely with production teams, develop insightful dashboards, integrate data models into production systems, and create & enhance statistical models, all to support our mission of creating the best games in the world. As part of a collaborative and innovative team, you will contribute to making data a key driver in all stages of our production process.
+
+What You’ll Do
+
+Turn raw in-game data into clear and actionable product and business insights that drive decisions and innovation and support the game team.
+Dive into structured and unstructured data sets, discovering trends, and understand the whats & whys behind the data to help improve player experience and boost product performance.
+Design, run, and analyze A/B tests to optimize in-game features and player monetization and engagement.
+Create and communicate reports, analyses, and dashboards that provide actionable and timely insights for teams across the whole studio, making complex data easy to understand for non-technical stakeholders.
+Collaborate with game teams to ensure data is effectively integrated into production pipelines, supporting every stage of development.
+Communicate with multiple stakeholders and be on top of everything happening in the game and support the game team’s day-to-day needs, including ad-hoc requests and deep dives into problematic areas.
+Impact the game by being a vocal and active participant in the decision-making process. 
+
+What You Bring
+
+Genuine passion for video games.
+At least 2 years of hands-on experience working in data analytics in digital product companies.
+Experience working in a gaming company coupled with a deep understanding of the mobile gaming industry and free-to-play model is desirable.
+A bachelor's degree or higher in a STEM field from a reputable university or equivalent demonstrable experience in data analytics or a related field.
+Excellent knowledge of statistics and statistical techniques, with proven hands-on experience with SQL and Python to extract and manipulate data is a must.
+Ability to create and document reproducible analysis. Experience with Git is a plus.
+Excellent written and verbal communication skills in English, with the ability to present complex ideas clearly and concisely.
+Proven experience working with large datasets and transforming raw data into actionable insights that drive critical business decisions.
+The ability to distinguish between correlation and causation, effectively handling biases in complex datasets.
+Exceptional attention to detail with the ability to ensure consistent data quality across reports and maintain reporting services through dashboards.
+A collaborative approach and willingness to work closely with production teams to ensure data is used properly across all stages of development, among all stakeholders.
+A proactive and adaptable mindset with the ability to quickly learn new tools and methodologies, to maintain the existing ones, and to develop your own.
+
+We are proud to be an equal opportunity employer, which means we are committed to creating and celebrating diverse thoughts, cultures, and backgrounds throughout our organization. Employment with us is based on substantive ability, objective qualifications, and work ethic – not an individual’s race, creed, color, religion, sex or gender, gender identity or expression, sexual orientation, national origin or ancestry, alienage or citizenship status, physical or mental disability, pregnancy, age, genetic information, veteran status, marital status, status as a victim of domestic violence or sex offenses, reproductive health decision, or any other characteristics protected by applicable law.
+
+As an equal opportunity employer, we are committed to providing the necessary support and accommodation to qualified individuals with disabilities, health conditions, or impairments (subject to any local qualifying requirements) to ensure their full participation in the job application or interview process. Please contact us at accommodationrequest@zynga.com to request any accommodations or for support related to your application for an open position.
+
+Please be aware that Zynga does not conduct job interviews or make job offers over third-party messaging apps such as Telegram, WhatsApp, or others. Zynga also does not engage in any financial exchanges during the recruitment or onboarding process, and will never ask a candidate for their personal or financial information over an app or other unofficial chat channel. Any attempt to do so may be the result of a scamp or phishing attack, and you should not engage. Zynga’s in-house recruitment team will only contact individuals through their official Company email addresses (i.e., via a zynga.com, naturalmotion.com, smallgiantgames.com, themavens.com, gram.gs email domain).

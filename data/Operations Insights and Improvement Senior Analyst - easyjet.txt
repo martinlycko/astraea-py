@@ -1,0 +1,85 @@
+https://www.linkedin.com/jobs/view/4106768154/?eBP=CwEAAAGT6LRf0jHQT1RwXwi9tRrVxVZ7rXqBvcBU3kY75uJBkSXZXCVgbLFnDRD-tdoCG1R0BmyXS1GfIS-blXY-4vaJQl9EkNFfZbfiSWn3PHSjhgE70aTUFaWBSCIjioPYq58KZEOtnSkiLHdEdawUvsMBEqudk3lWsOUCdseZMQcaKeET1xrpG0u702G7XHXY1KkXRWn7dyy4r5_LpNveVhuYF8oCItF1sFImN-PhFfbvlpHIuawXYne782KNZMjXcSnQNXjScTcGA_GxrZ9xfzTrWRbq4gl1S4hK-FnzRiGqnn_5cnbTTQNYM51HThmJE5fM1SO022Bd14l1mil3JlRZbV4eU7ORAmDSig-wP0HQeBw2-dUQ-d-Hj5mDP6yu3OlIN_DiNOl6IFACjiBAa8raByk6MAXvZqB2xvf50OBWOaIpn5MtfBaqZk8AXtvphGl47cwhVVTFgeKZ63hue9y4uc6WO61DxN1z785G&refId=5SeldQYqvOh8%2FF0XOUYlHw%3D%3D&trackingId=xIJG9oUMnjYqPuhek3CGjw%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+We are easyJet – a FTSE-100 listed, £multi-billion low-cost airline that serves tens of millions of customers every single year. If you’re reading this, you have probably already been an easyJet customer, and you’ll know that there is no more iconic (or Orange!) travel brand in Europe.
+
+We fly more than 1,000 routes, connecting 35 countries across Europe, and employ more than 18,000 colleagues. We’re on a mission to make low-cost travel easy – and whatever your role here, you’ll connect millions of people to what they love using Europe’s best airline network, great value fares, and friendly service.
+
+It takes a real team effort to run an operation as big and logistically complex as ours – and regardless of where you join us, no one day will ever be the same. One thing that does stay the same though is our people. They are energised, positive, inclusive, united by purpose, ready to meet problems head-on, and they have your back. We’re here to win together. We call that our ‘Orange Spirit’. It’s what makes our teams fun to be a part of and what brings us together.
+
+Job Purpose
+
+As an expert in modelling and analysing data you’ll report to the Diagnostics & Improvements Analytics Manager and take ownership of key diagnostic tools. Your role will focus on identifying drivers of operational performance, analysing trends, and developing actionable insights to improve on-time performance (OTP) and flight completion rates.
+
+With support from the Data Science & Analytics Centre of Excellence, you’ll uphold best practices in data and analytics, transforming the planning and analytical capabilities within the department.
+
+What You’ll Be Doing
+
+ Develop, enhance, and maintain diagnostic models to assess key performance indicators (KPIs) such as OTP and completion rates.
+ Analyse trends to route level cause and propose solutions to operational challenges.
+ Generate hypotheses, test them rigorously, and take ownership of solving identified problems.
+ Create compelling visualisations and reports to drive operational improvements through actionable insights.
+ Collaborate across departments to foster a data-driven culture, ensuring decision-making is grounded in robust analytics.
+ Build dashboards that consolidate strategic and tactical KPI performance, creating “one version of the truth.”
+ Provide timely insights and prepare insights material reports for senior leadership, including OLT and AMB meetings.
+ Share knowledge and collaborate with IT and other analytics teams to optimise operational tools and practices.
+ Support ad-hoc analyses, particularly around disruption events and opportunities to reduce them.
+
+
+What You’ll Need
+
+ Proven analytical and quantitative skills with a strong track record of using data to drive business decisions.
+ At least 3 years of experience in data analytics in a commercial setting, with a focus on delivering successful projects.
+ Proficiency in SQL and at least one scripting language (e.g., Python, R).
+ Expertise in business intelligence tools such as Tableau, PowerBI, or similar.
+ Solid understanding of statistical techniques, including time series analysis, multivariate analysis, and forecasting.
+ Strong Excel skills for data analysis and visualisation.
+ Ability to operate effectively under pressure, with a delivery-oriented mindset.
+ Excellent communication and storytelling skills, capable of presenting complex data insights to stakeholders.
+ Experience in cross-functional teams and dynamic, fast-paced environments.
+ Bachelor’s degree in a scientific or technical field (e.g., Statistics, Mathematics, Computer Science, Engineering) or equivalent commercial experience.
+
+
+What You’ll Get In Return
+
+ Competitive base salary
+ Up to 20% bonus
+ 25 days annual leave plus bank holidays
+ BAYE, SAYE & Performance share schemes
+ 7% pension
+ Life Assurance
+ Flexible benefits package
+ Private Medical Insurance
+ Excellent staff travel benefits
+
+
+Location & Hours of Work
+
+This role is full time and hybrid where we spend 60% of our time together as a team at our head office at Luton Airport
+
+We welcome applications from people from all backgrounds as part of our ongoing commitment to having a team that truly represents the customers that we serve . You may feel that that you don’t meet every single requirement for this role, but we’d still encourage you to submit an application if you feel you meet enough criteria to be considered. And if you need any adjustments or support during the recruitment process please let us know and we’ll work with you to find a solution.
+
+We are easyJet – a FTSE-100 listed, £multi-billion low-cost airline that serves tens of millions of customers every single year. If you’re reading this, you have probably already been an easyJet customer, and you’ll know that there is no more iconic (or Orange!) travel brand in Europe.
+
+We fly more than 1,000 routes, connecting 35 countries across Europe, and employ more than 18,000 colleagues. We’re on a mission to make low-cost travel easy – and whatever your role here, you’ll connect millions of people to what they love using Europe’s best airline network, great value fares, and friendly service.
+
+It takes a real team effort to run an operation as big and logistically complex as ours – and regardless of where you join us, no one day will ever be the same. One thing that does stay the same though is our people. They are energised, positive, inclusive, united by purpose, ready to meet problems head-on, and they have your back. We’re here to win together. We call that our ‘Orange Spirit’. It’s what makes our teams fun to be a part of and what brings us together.
+
+Business Area
+
+Operations
+
+Primary Location
+
+United Kingdom-London-London Luton Airport
+
+Organisation
+
+Operations Performance & Planning
+
+Schedule
+
+Full-time
+
+Unposting Date
+
+10/01/2025, 11:59:00 PM

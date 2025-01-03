@@ -1,0 +1,115 @@
+https://www.linkedin.com/jobs/view/4102584633/?eBP=CwEAAAGT6Lmk1xq1D4n5ktIue-IqHGH4t5NvzhX5tycMLNQlERCVUxzbhMuri2fYpQRIopGiacNfSoeOUD8ahDp2hKuvjy9Ae2aVQTETkJMM1Efmwj5Uotq_0f-UpGQ4hfAVCHXmPMQ-rvYMrWZcvKiVYSC4P-hoF2Fl18bsA082WAjquEPfzdKXbY5U_3Ydgj4NfEQ6rS6G7TzyuD8IXLbzTfecX4YcqeEBu9OuWZfBW7nw3VWpP2zB1JvbRgvQ-Tw819jwhQdTUwvbRaxCJ2PwY50jMHZF-sQAlOuvUTXI2nF_krT0h1ab0HHHaEQ-_hJnynPonLhYTovoL1RJ9EglLEaPLDOPfwMvr8pQKR3qA32sERmB-GrekkL2o4kx7S7kW4OUIsoIeIWrelOWgUZOuWJvchj6zG-_nP7Yajn4t4swXb9zdQpTG70peuKXJgSQ8m4sJdTcX-3RmAR0soSzxVegYPoNnvRfcOqEKSkoHdjLZg&refId=oKjE72J2Hn2cD3o2wG%2BDAg%3D%3D&trackingId=val8bjs%2FXalAxfmkYeNKUA%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+JOB DESCRIPTION 
+
+JOB TITLE: Data Analyst (Subs) 
+
+LOCATION: Surrey - Hybrid 3 days per week in the office
+
+SALARY RANGE: £365.20 p/day Inside IR35
+
+Start date - January 2025 
+
+Contract Period - 12 Months 
+
+SUBSIDIARY / DEPARTMENT OVERVIEW: 
+
+
+
+PURPOSE OF THE JOB: 
+
+Provide adhoc Data and Analytics Support to ~3 European subsidiaries. 
+
+KEY ACCOUNTABILITIES 
+
+• Interrogate the data warehouse using SQL (basic level knowledge) 
+
+• Using QlikSense for analysis 
+
+• Stakeholder engagement, interface between end business users and technical teams 
+
+• Be proactive 
+
+• Performing customer segmentation and profiling 
+
+• Taking large datasets and generate key insights using existing analytics resources, and packaging them for end users in easily digestible formats, and be able to evidence end-user adoption and beneficial outcomes of such insights. 
+
+• Reporting and insights pipeline management: Managing a reporting/insights pipeline 
+
+• Gathering requirements from the business and managing stakeholder expectations 
+
+• Converting end user requests into meaningful and efficient requirements for technical roles e.g. (Data) Engineers / dev 
+
+• Data Brief validation and QA: Checking dev outputs and co-ordinating UAT 
+
+• Ongoing validation and QA: Perform ongoing QA of published data outputs to uncover issues related to quality, consistency, and business questions. 
+
+
+
+KEY LIAISONS 
+
+Job Description Page 2 of 3 27/11/2024 
+
+• The Operations Management Team 
+
+• CDM Management Team 
+
+• CDM Technical Support Team 
+
+• European regional subsidiaries 
+
+• Adobe Support and other 3rd parties 
+
+
+
+DIMENSIONS: 
+
+• Maintain good and strong relationships with all key liaisons 
+
+• The direction of activities associated with marketing team and operation team 
+
+
+
+SKILLS AND EXPERIENCE: 
+
+Essential 
+
+• The candidates must have exceptional English as they will be dealing with several European markets where English is not their first language 
+
+• SQL (Basic level knowledge) 
+
+• Experience with BI Tools such as Tableau, Power BI, QlikSense, Adobe Analytics etc. 
+
+• Advanced Segmentation, data layer understanding, web data collection understanding, D2C experience or equivalent understanding 
+
+• Experience of stakeholder engagement, 
+
+• Experience as interface between end business users and technical teams 
+
+• Experience managing output pipeline. 
+
+• Will have had experience of being able to prioritise and triage advanced requests from multiple business-side stakeholders, experience of stakeholder requirements gathering and ability to converting end user requests into meaningful and efficient requirements for technical roles e.g. (Data) Engineers / dev 
+
+• Be able to check dev outputs /co-ordinate UAT (specifically must have enough data knowledge to be able to run reconciliations vs master data sources and new outputs and be able to sniff out non-credible outcomes and own the escalation & resolution of such issues. Be an initial layer of QA screening before getting the business involved. 
+
+
+
+Desired 
+
+• Recommend projects that will enhance our insight capability, turn those recommendations into tangible technical requirements. It’s critical that they have the nous to run a sniff test on whether a data output is credible or not (rather than just objectively whether it is doing what it is expected to do on a requirement level.) 
+
+
+
+HOURS OF WORK: 
+
+37.5 hour week. Some weekend and evening work may be required for emergencies and projects. 
+
+
+
+CHALLENGE: 
+
+We are operating in a fast moving, challenging environment where processes and procedures are constantly changing. It is essential the incumbent keeps abreast of IT developments and evaluates the possible impact on business. 
+
+Note: This job description summarises the main aspects of the job, but does not cover all the duties that the jobholder may be required to perform. This document is intended to enhance the understanding between the Manager and the employee and may be changed/amended as the job/business needs require. 
+
+Job Description Page 3 of 3 27/11/2024

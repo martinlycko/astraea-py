@@ -1,0 +1,53 @@
+Link: https://uk.indeed.com/viewjob?jk=4c2c805b4186f8b6&tk=1ieatjr3i2g5l000&from=hp&xpse=SoD467I34KzuN1x2JB0LbzkdCdPP&xfps=98eafb15-6b47-41c3-926c-e05696f5f016&xkcb=SoCa67M34KzAs9zTjx0GbzkdCdPP
+Title: Data Analyst
+Company: ixceed solutions
+
+Location: London
+Workmode: Hybrid
+
+Hours: Full-time
+Contract: Contract - 3 months
+Salary: 400-450 per day
+
+Skills:
+
+Description:
+Role : Data Analyst (SPARQL, GraphDB)
+
+Hiring Type : 3 months Contract
+
+Working model (Hybrid)
+
+Responsibilities:
+
+Design, develop, and maintain scalable data pipelines using SPARQL and Python to extract, transform, and load data into graph databases.
+Create and optimize complex SPARQL queries to retrieve and analyze data from graph databases.
+Develop graph-based applications and models to solve real-world problems and extract valuable insights from data.
+Collaborate with data scientists and analysts to understand their data requirements and translate them into effective data pipelines and models.
+Ensure data quality and integrity throughout the data pipeline process
+Stay up-to-date with the latest advancements in graph databases, data modeling, and programming languages.
+Qualifications:
+
+Bachelor's degree in Computer Science, Data Science, or a related field.
+Proven experience with SPARQL and Python programming languages.
+Strong understanding of graph databases (e.g., RDF, Neo4j, GraphDB).
+Experience with data modeling and schema design.
+Knowledge of data pipeline tools and frameworks (e.g., Apache Airflow, Luigi).
+Excellent problem-solving and analytical skills.
+Ability to work independently and as part of a team.
+Job Type: Fixed term contract
+Contract length: 3 months
+
+Pay: £400.00-£450.00 per day
+
+Benefits:
+
+Company pension
+On-site parking
+Work from home
+Experience:
+
+SPARQL: 4 years (required)
+GraphDB: 4 years (required)
+Data modeling and schema design: 3 years (required)
+Work Location: In person

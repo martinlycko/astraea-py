@@ -1,0 +1,47 @@
+https://www.linkedin.com/jobs/view/4077447571/?eBP=CwEAAAGT6LVvV437oRoX3sXcJ172I46FKYU4TIR4HWujBrtEwLKN9H_izQZR62Cb29MMsclCa5dbEoy15RkchNaC0RnNJ4kp9ys6VcJWCHtBUgqJXFIMbKWAlC20PJPf7PipJV1czxjwSfNirMi7bf-XdYj84ETMfxAGuKgC9_SP6oojR9lYdgU-ckOwBj8dILZpNcWaeBRCIijuSLdf6_p04SVoR2wbCu952g2ZDwL5cRN20t2ugUXIaqrMCD30W6FVAXsNltpub_1mmABS996LCEzzjeNBXCVn2dTdVkKaLNNu7lQAancQTMyZOagjl-vdR90n33zw2ZwH4KhTYHIHSchZZ_hJ8B6WdoGqaIWwgiMwPKQPZRC5PJt5LatzKTdviMIr3sjB_JwR_PAbdZdWNu9moFW3ibsb5hf6FfFRUtNVndVoZOjP_T7wb4PWCio2D3puo0Kp9Q1ttMRGiUlhSLEYVg7lDQkRgu2ocmfj&refId=5TULHrqg3RTVDl%2Fcgs66bw%3D%3D&trackingId=QTbBRq4Lf9yGqo%2Fteh7AiQ%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Data & BI Analyst 
+
+West London - 3 days in office
+
+£50,000 - £60,000
+
+
+
+Company Overview:
+
+This organisation operates in the buy-now-pay-later sector within the automotive industry, providing financing solutions for car servicing and repairs. By partnering with garages and dealerships, they offer interest-free payment plans and other financing options to customers. The company is experiencing rapid growth, expanding into new countries and markets.
+
+
+
+The role reports directly to the Head of Data and joins a small team of four.
+
+
+
+Technical Environment:
+
+Reporting Tools: Power BI for internal analytics and reporting.
+Data Infrastructure: AWS, MySQL, and PostgreSQL.
+Data Pipeline Management: Airflow to orchestrate workflows.
+Data Sources: APIs, S3, and other external sources.
+
+
+Role Overview:
+
+This position focuses on being the Power BI champion, owning and scaling the entire Power BI stack. Key responsibilities include:
+
+Enhancing Power BI dashboards, implementing features like Incremental Refreshing, ROS, and version control, and improving documentation.
+Optimising SQL data models using joins, window functions, and performance tuning.
+Collaborating with a skilled team to scale operations and modernise reporting.
+Taking an autonomous approach with opportunities to lead new projects and explore other data areas after core duties are met.
+
+
+Candidate Requirements:
+
+Expertise in Power BI and SQL, with hands-on experience in advanced features like Incremental Refreshing, Role-based Security (ROS), and version control.
+Proficiency in SQL techniques, including joins and windowing functions, with a focus on performance optimisation.
+A background in financial services is advantageous but not essential, particularly a familiarity with concepts like interest rates.
+An autonomous work style, with the ability to manage tasks independently and innovate in a fast-paced environment.
+
+
+This is a unique opportunity for a driven professional to lead and elevate a Power BI environment while contributing to the broader data strategy in a rapidly growing organisation.

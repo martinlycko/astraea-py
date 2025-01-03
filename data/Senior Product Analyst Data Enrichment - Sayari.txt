@@ -1,0 +1,61 @@
+https://www.linkedin.com/jobs/view/4093149571/?eBP=CwEAAAGT6Lg3L5EDUGQSsa38ol3FdrCsbJP_ZfVqrGAaBZKzHPiy6rGf7WgV2sGyLQoMZfgWap5TrvYxjRDAbreorZxf831AnfpUa0ApFtAJzZ_TxNuKmb_JQSXHMyUUtvOCdfat0Y4ZYivsQpdYy9m_Fx6tmDx5dhWBtCcRlTvxLlTLV1BknTVscXDO09OEchgNza9LjBRZlnVj7dT_hVKfCB5qjS6LbvwDlEJByEurse5F5omD3lMVly38tmzKIpqCUFxUrilelC5A7JlTHYsrIErOeo7NDecLb2OdEuKIp4QtHLolR5IF5dR_4707nUgRa-G_J8e8vrlQBhrRZ-zQHDkvUZgdVJsSfN4eT4K2xVhjmGj5t-AkzRDbGt_jdDJzAHg-ILDhjT5zFtQXo-BetrVBFX2YHFZqrt8TKjCaeZ3n-p-3pV1F9fb2XyT9Eg2jhTdWQcyCBeKkmE4Pwu8LZLsBfTLWksPN4a8fOz3oolY&refId=W82WA9oiKdn9%2F9IqjzVYlg%3D%3D&trackingId=wzxDWtlk7z0wrQsOmcLZ3A%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+About Sayari: 
+
+Sayari is the counterparty and supply chain risk intelligence provider trusted by government agencies, multinational corporations, and financial institutions. Its intuitive network analysis platform surfaces hidden risk through integrated corporate ownership, supply chain, trade transaction and risk intelligence data from over 250 jurisdictions. Sayari is headquartered in Washington, D.C., and its solutions are used by thousands of frontline analysts in over 35 countries.
+
+Our company culture is defined by a dedication to our mission of using open data to enhance visibility into global commercial and financial networks, a passion for finding novel approaches to complex problems, and an understanding that diverse perspectives create optimal outcomes. We embrace cross-team collaboration, encourage training and learning opportunities, and reward initiative and innovation. If you like working with supportive, high-performing, and curious teams, Sayari is the place for you.
+
+Position Description
+
+We are looking for a Sr. Product Analyst to support the development of Sayari’s high-value data enrichment features, which back all our software and data products. You will work with over 6 billion records from bills of lading and corporate business filings, playing a vital role in transforming these records into a cohesive and intuitive knowledge graph. Once these records are resolved into entities, you will define and implement features that ensure accurate entity naming, display the most current entity status, enhance translations, validate shareholder status, improve geocodes, and more.
+
+Sayari’s end users rely on our enriched data to make mission-critical decisions. You will be responsible for ensuring that our enrichment methodologies are, above all, trustworthy and accurate.
+
+This role is part of Sayari’s Data Insights Lab, our team of data and investigations experts who ensure that our software platforms are backed by data assets that are comprehensive, relevant, up-to-date, and optimally structured. You will report to the Risk and Insights Lead and will be part of a dynamic and collaborative product organization.
+
+Job Responsibilities
+
+Methodology Development & Implementation: Develop, test, and implement purpose-built enrichment features that maintain fidelity to our original data and exceed our end user’s needs. You will be accountable for the analytical rigor, relevance, and overall quality of our data enrichment features. As such, you will frequently engage with Product Management to ensure our data enrichment logic is not just meeting technical success criteria but exceeding customer expectations, driving accurate risk and other insights, and in line with product roadmaps
+Functional Requirements: You will translate user feedback and product-level requirements into actionable functional specifications that enhance Sayari’s data enrichment features. Your data and analytical expertise will guide the development of rigorous, data-backed enrichment initiatives. 
+Acceptance Criteria and Quality: You will set acceptance criteria (i.e. define what good looks like) for functional requirements with a user-first mindset, and monitor these criteria over time. You will be accountable for ensuring our data enrichment features consistently meet established quality standards, exceed our users’ expectations, and show a clear return on investment
+Data Modeling: Data Models are representations of an organization’s data and its relationships, and rules that govern the use of data. You will be tasked with generating data model proposals by partnering with Product Managers and Data Engineers to ensure new data types meet customer expectations and align seamlessly with our technical architecture. This cannot be done well without your deep domain knowledge
+Cross-functional Collaboration: Engage closely with product management and data engineering stakeholders on ideation, prioritization, and execution of data enrichment in the product roadmap. You will receive success criteria from Product Management and work with technical engineering counterparts to devise feasible and timely solutions. Your role will be critical in getting buy-in from stakeholders efficiently. 
+Performance Metrics and Analysis: Define and track key performance indicators (KPIs) to evaluate the success and quality of Sayari’s data enrichment features. You will use data-driven insights to inform iterative improvements and ensure that your output meets both user needs and business objectives. Success in this role means not just delivering on quantity of executed features, but achieving a balance of quantity, quality, and relevance
+Manage Data Labeling Projects: You will design and oversee data labeling and curation projects with our outsourced analyst team to provide machine learning training data and accelerate enrichment work, in coordination with the Director of Data Sourcing. You will have access to a deep bench of junior analysts to support your mission
+Manage Data Documentation: Create, maintain and constantly improve all documentation relevant to your portfolio including but not limited to: manifests, dashboards, spreadsheets, FAQs, business logic descriptions, etc. You will be responsible for ensuring our partner teams have timely and easy access to the information they need about our risk offering
+Maintain Domain Expertise: You will need to keep your knowledge and skills sharp in order to stay effective in this role. You will proactively maintain your product and domain expertise by regularly using our products, engaging with Solutions and customers, following market and regulatory trends, and more
+
+
+Required Skills & Experience
+
+3-5 years of experience and obvious subject matter expertise in complex network- and typology-based investigations
+Subject matter expertise and professional experience working with global commercial data, trade data, risk data for Sayari priority domains, or other relevant data types
+Experience with extracting concrete insights from large volumes of complex data
+Passion for enabling the missions of our customers
+Technical experience with GitHub, SuperSet, MixPanel, Hex, and BigQuery; general technical fluency and/or interest 
+Thrives on new challenges and comfortable wearing many hats; start-up mindset with experience in high-growth/SaaS environmentsStrong writing and presentation skills
+BS or BA degree
+
+
+Desired Skills & Experience
+
+Foreign language proficiency in one or more of the following languages: Chinese, Russian, French, Spanish, German, Arabic, Farsi
+Direct experience using Sayari data and products
+Coding (Python), data science, or related experience
+
+
+Benefits: 
+
+ 100% fully paid medical, vision, and dental for employees and their dependents
+ Generous time off; we observe all US federal holidays, close our office for a winter break (12/24-12/31), in addition to granting 18 PTO days and 10 sick days
+ Outstanding compensation package; competitive commissions for revenue roles and quarterly bonuses for non-revenue positions
+ A strong commitment to diversity, equity, and inclusion
+ Eligibility to participate in additional benefits such as 401k match up to 5%, 100% paid life insurance (up to $100,000 coverage),, and parental leave
+ A collaborative and positive culture - your team will be as smart and driven as you
+ Limitless growth and learning opportunities
+
+
+Sayari is an equal opportunity employer and strongly encourages diverse candidates to apply. We believe diversity and inclusion mean our team members should reflect the diversity of the United States. No employee or applicant will face discrimination or harassment based on race, color, ethnicity, religion, age, gender, gender identity or expression, sexual orientation, disability status, veteran status, genetics, or political affiliation. We strongly encourage applicants of all backgrounds to apply.
+
+The target base salary for this position is $120,000-$135,000 plus quarterly bonus and equity. Final offer amounts are determined by multiple factors including location, local market variances, candidate experience and expertise, internal peer equity, and may vary from the amounts listed above.

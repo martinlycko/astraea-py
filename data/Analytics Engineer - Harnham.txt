@@ -1,0 +1,47 @@
+https://www.linkedin.com/jobs/view/4104815684/?eBP=CwEAAAGT6LpWFI9gGyGejLOrkQqqwMzW2cWX41gG1uokQwPI4u4b7ZjdX4WSeJngi_eOopxhFFCfAQK1AWlhqTAEi05NT_ivQHdZ_yRChmXM_8nZSP8Cwo_XUv_pEVXrvEwXQ_7rBP5bn5U1ETsSyyfJZMoxsvj1-Zyxrr2HUaceaHdVES0mjpet4UVUrE9JDc5kUVeC0eN24RVf0IeXyl69ZWhZmBEBlxCngjBSnLOoaV3RWWbqOvBI2zz9UA51el_g6msL80PkUih-6kbuNK5WYwBucSLdLoDGpXiSV1DXxtAwqwQTJj9a7RDtn_vtK52pstL_bffMK6D6r4K5LifId3-ttuWJRBMbpgzkutCBwq73Z1t8tbkD2ZYgUic7sbJpY90LwN8qpZFNMBB0chcNbHNbcpv315MC7TW7aKrWqZyOfsgp9iOWsmD4UE3O_MR2uqlKeRJnfZ7IHvdZD3bDhr3FlPqWQnQcGBVjnRzZ&refId=%2B%2BuBFBT859eFwMU5lA7xtQ%3D%3D&trackingId=VnAU6C1bIy2u6ohe7QMjZg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+📢 Analytics Engineer | Human Data Platform | Remote
+
+£55,000 - £75,000
+
+
+
+A pioneering human data platform is seeking a talented Analytics Engineer to join its rapidly growing team. The platform was created to connect researchers with participants for research projects. After recent significant growth it now plays a critical role in supplying high-quality human data for both academic research and training AI systems.
+
+
+
+About the Role
+
+The company is leveraging data more aggressively than ever, and the Analytics Engineer will be at the forefront of this effort. This role involves transforming how data is accessed and utilised, ensuring the organisation’s data infrastructure is scalable and effective.
+
+Key responsibilities include:
+
+Building and maintaining scalable data models in dbt, making data accessible across the organisation.
+Driving the transition away from ad hoc processes towards more structured, repeatable workflows.
+Collaborating with Product and BI teams, with an initial focus on ensuring BI data accuracy.
+Working closely across departments to improve data quality and ensure reporting reliability.
+Enhancing the existing infrastructure to better support the company’s growing reporting needs.
+
+
+About You and Your Experience
+
+The ideal candidate will have:
+
+A background in data or analytics engineering.
+Experience in either smaller, fast-growing organisations (scale-ups) or larger, more established companies—diverse backgrounds are valued.
+A collaborative and curious mindset, with a strong desire to tackle complex challenges.
+Proficiency in dbt, with knowledge of SQL, Python, and Snowflake considered an advantage.
+
+
+
+
+The Benefits 
+
+The chance to work on cutting-edge projects that support world-class research and AI development.
+A flexible working environment, with remote and hybrid options available.
+A collaborative culture where your contributions will shape the company’s future.
+
+
+📩 How to Apply
+
+Please submit your CV via the Apply Link on this website, or by sending your CV to carlotashepherd@harnham.com

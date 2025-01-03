@@ -1,0 +1,51 @@
+https://www.linkedin.com/jobs/view/4081829787/?eBP=CwEAAAGT6LRf0b8YHtvfs1JSaDWXScBuZZNtj5QclXs0ug7JQp20bzpBRTsl9y_Ki3LEY-rRN4CFk5cC0LFVyearfp8zL16b4ex-hwZJF7SAxFLL8o4lRGAiuJ3cffrTwlACOCC1sPcOwnYBznRXRW8_SvVBm1qsXXeGNx__ZggyIy0Ur3sGCv2oOGYq6l5odJ75GYCLxYy3vLz594INUWKkNgvbcT4fZDV6_ljZeCdydgIoeR3E-SvIbBZ8v-iQ6lF7t0SW4DMkee1n_29BIScqu6Tau5r8aGi0wWbx9lLHevDHQAsFdIsKr6Mn_wTRSEiae38X5F1fB8NmqSddY9VWZwWTTUozhriQSZE46tPg6D42UE0-d0LtAIwcIw-P-prR4J7CTjedxpBXecEV5YQ7wpXRERhIt0Cg9_qXNlRI17o_cqv4Yz083CkKMSDTimieVBVA_o4aszfmqEA2TV9TvtTd&refId=5SeldQYqvOh8%2FF0XOUYlHw%3D%3D&trackingId=RnhXHaeRZNuwq0rg4d93Fw%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Preferable: 6+ YOE 
+
+Salary Range: £60,000-90,000 depending on experience 
+
+
+
+Company Description
+
+Smart Spaces is an award-winning, industry-leading white-label IoT platform, providing an all-in-one solution for building management systems control and communication. Our platform smart-enables workplaces, adding efficiency to daily work life for occupiers, employees, property owners, and managers. Our IoT application helps manage everything in your building, from granting access, system controls, and energy efficiency reports, to room booking and maintenance queries.
+
+
+
+Role Description
+
+This role is a great opportunity for a data-driven leader to get involved with all aspects of managing our data, from engineering to analytics to AI product development. We are looking for someone who thrives in an autonomous environment, can manage their product roadmap, and enjoys communicating with customers to understand their needs, and architect solutions that allow them to realise their goals.
+
+
+
+Responsibilities
+
+Lead an agile Data Science & Analytics team to spearhead the company's data & AI strategy
+Develop & own the Data & AI product roadmap - by researching, prototyping, and implementing solutions to business challenges, from concept to production
+Design & implement ETL data pipelines to serve data for reporting & analytics, transforming sensor & operational data & calculating business metrics
+Create interactive dashboards & visualisations to provide insights from our broad datasets, including data such as building occupancy, energy, & air quality
+Work with customers to understand their data & reporting requirements, effectively communicate these to stakeholders, and develop product solutions
+Collaborate with cross-functional teams to integrate solutions & align with broader product and company goals.
+
+
+Required Skills & Experience
+
+Programming: Proficient in at least one language with a strong knowledge of OOP concepts (Python or C# preferred)
+Experience with SCM (Git), & DevOps concepts such as CI/CD
+Data Engineering: Experience designing and implementing ETL pipelines, transforming & cleaning data
+Data & API's: Strong experience working with databases & API's, with experience guiding data architecture decisions
+Data Visualization & Reporting: Experience developing reporting dashboards, conducting analytics, communicating findings
+Experience with BI tools beneficial
+AI Development: Knowledge of AI tools and AI application development, keen interest to learn more
+Experience working with GenAI API's for product development preferred
+Product Management & Stakeholder Engagement: Comfortable with product management tasks, including leading client calls, developing requirements, managing a product roadmap
+Management: Self-motivated with good project management skills to manage your own time & that of your team within an Agile/Sprint framework
+
+
+Benefits
+
+Hybrid role with three days in-office expectation
+Private health insurance
+Company pension scheme
+Discounts and Offers Platform
+Learning and Development scheme

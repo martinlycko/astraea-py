@@ -1,0 +1,40 @@
+https://www.linkedin.com/jobs/view/4087078446/?eBP=CwEAAAGT6LqpqaXu7_9Oeqt-R2doh8Pw7guvQpqWTl1H7jyOCvfx0V0Dm6k6XRalj3I0050Gc7ZOmg7uDPNqLblVveY8N69qUyx6xK6pJJ6kpFvqBO0R1thFpsahoQkMqwfyrAcNAukiev0ji2Bo9KkELPnw1hSJ8nuqHBSby9RMvfLe0H9absZrP4VNNC0Xee3-701CJvAAQU5zWih8HC-IQ8epbh5sn9g1zsmC-oq0AeIkxmEhPkcH_HMUBBCis1iG3OnvJVhDk7McxGCul9_-PzC4dhJpe9gZnadj-eohYRqqNYkMe3tfCsCgmM5puBICZityHAg4EFC5OcxOgpBwGXD1sovj6lwJmU1agjSVI57h0n0RPAjJ-1fzuTiPpNjnvZ48rfucISwf6M9TfC7TfyIiC1zAf4ex_BtBcadnjPD2FOo9nBKL6_HvBcg6Co-bYK2cki-HYZHaWL5E9F7RjFUXJF6ZHn1XIdWA5DANxbE&refId=79R0wwNJsxAAyKQonDrpvg%3D%3D&trackingId=Lly019%2FxeUI%2FOOly17dN9Q%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+We are partnered with a Data & Analytics SAAS business who operate solely in the Media & TV viewing space.
+
+
+
+They have recently built a brand new product for these industries that allows them to fuse together extremely large disparate data sets (TV and radio for example), which they are now scaling out.
+
+
+
+Therefore they are looking for a Senior/Lead Analyst to take a lead role at the intersection of analytics and engineering, in order to take this platform much further (the platform itself has a number of Fortran components). As well as being heavily involved in a bunch of special projects that emerge from across the media/TV sector (think of the big players)
+
+
+
+Key Skills:
+
+
+
+SQL and Python skills for data analysis and manipulation, as well as some engineering experience.
+Fortran experience from education/research background
+Any experience in media/TV would be beneficial
+
+
+Interview Process:
+
+
+
+1st stage - VC with CTO
+
+2nd stage - F2F panel interview, ideally able to provide examples of relevant code or detailed analysis work/projects to facilitate a discussion
+
+
+
+Location: London - Hybrid - 3 days in office (Can be flexible)
+
+Salary: £70,000 - £80,000 base + 20% bonus
+
+
+
+Expected Start Date: January (can be flexible)

@@ -1,0 +1,79 @@
+https://www.linkedin.com/jobs/view/4106737402/?eBP=CwEAAAGT6Lwo1bwjxRzDaXq7uAANMZFr_latWLjWMZdXlLJXD8BUSyuZFgjBGcW0AzkG5CcjZ67IQEnhnHEIuJvpuc4_Kethy4oAOrO4Hp98WL-cTftISLI_VOl4V0arw2RJAhGoNULXIlhn-suU-Q_V-5qeB1lWYKdi8MegYBWrjZj5oewo0r-cYkn_rjeNfavL9ZnuDgZQqexTHGMG9f8rQP__aevZU_TtQtqE4uxEdckQnumLI2eE1fHdmzMadYN4Sdy972Tkeu2UvxP7nm3lbpTQz29CtDYqDNPJ-lNEFdOLjWycFUbxpnFOTiCLe3HAyv6RNg-QlBUdF6mt-rtjzySLImYF3OMdvUwLQ_8XH0IOsiLZlQLeqs9YCPJeJGjc0aVfAr79dMiUp2CX0boi_rmgCjizXtxNdr-OfiiMUrAJXNodWr1n_AeIMvE5ku6yL_i2q85cCDDT_9o6e44UVWdHOId2Gi0&refId=cveWgv%2F0rSJUyr8B6XaZgA%3D%3D&trackingId=soTSkZozFSKocjYuOMyuTg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+About The Role
+
+Hippo is recruiting for a Senior Data Analyst to join our Hippo Herd. Our Data Analysts work in multi-disciplinary teams that build, support & maintain user-centred digital solutions that offer real value and work for everyone.
+
+Hippo’s Data Analysts are involved in creating data specific solutions to ensure we have the right information and data to make informed decisions. Stakeholder engagement is key and collaborating within your technical Hippo squad and alongside colleagues from other professions is fundamental.
+
+Your Role In a Nutshell
+
+Draw actionable insights from multiple, large sources of data and communicate these effectively, through reports, dashboards and presentations.
+Engage with client stakeholders to understand their business and organisational needs and translate these into clear requirements for your analysis.
+Identify opportunities for the use of advanced analytics techniques (e.g. marketing analytics, predictive modelling and machine learning) to provide additional value to clients.
+Use robust statistical techniques when appropriate and be able to communicate your methodology to a wide range of stakeholders.
+Be comfortable with exploring large, diverse data sets with an ability to work with both structured and unstructured data.
+Apply tools and techniques for data analysis and visualisation (including the use of business intelligence tools).
+Identify, collect and blend data from a range of systems and sources, including open source data for additional context.
+Understand various data platforms and pipelines at a conceptual level and be able to identify data quality issues that might impact your work.
+Apply appropriate data cleaning and management techniques, and be able to advise on future improvements for data.
+Be involved in the recruitment and on-boarding of other analysts, and support other consultants in their professional development.
+Promote Hippo’s Herd internally and externally (for example through writing blogs and case studies, and sharing knowledge through workshops and other speaking opportunities)
+
+About The Candidate
+
+A proven track record as a data analyst with experience of exploring, summarising and presenting data in the most appropriate format for users.
+Skilled in data cleansing, analysis, modelling and visualisation, with experience using tools such as Tableau, Power BI, and Looker Studio.
+Experience with web analytics platforms such as Adobe and Google Analytics.
+Experience of working with large, complex data warehouses and/or data lakes.
+Familiarity with cloud based analytics platforms such as AWS, Azure, Snowflake, Google Cloud Platform (Big Query), Spark and Splunk.
+Proficiency in SQL and experience of using one or more of the following languages: R, Python, Scala and Julia, including relevant frameworks/libraries.
+Strong stakeholder management skills with the ability to interpret and advise upon client requirements.
+Excellent collaboration skills and willingness to be a data advocate across Hippo, especially within the wider engineering & data team.
+For the Senior role, mentoring and coaching skills with a passion for up-skilling junior analysts is essential.
+Public sector or consultancy experience would be highly desirable.
+A desire to continuously develop your own skills and adapt to changing client needs and technologies.
+
+About The Company
+
+As well as a competitive salary which we’re transparent about from the outset, you can also expect a range of benefits:
+
+Contributory pension scheme (Hippo 6% with employee contributions of 2%)
+25 days holiday plus UK public holidays
+Perkbox access for a wide range of discounts
+Critical illness cover
+Life assurance and death in service cover
+Volunteer days
+Cycle-to-work scheme for the avid cyclists
+Salary sacrifice electric vehicles scheme
+Season ticket loans
+Financial and general wellbeing sessions
+Flexible benefits scheme with options of:
+private health cover
+private dental cover
+additional company pension contributions
+additional holidays (up to an extra 2 days)
+wellbeing contribution
+charity contributions
+tree planting
+Diversity, Inclusion and Belonging at Hippo
+
+At Hippo, we’re dedicated to creating a diverse, equitable and inclusive workplace that works for everyone. We understand that having a diverse team unlocks our capacity for innovation, creativity and problem solving. Only by building a community of diverse perspectives, cultures and socio-economic backgrounds can we create an environment where all can contribute and thrive.
+
+We actively encourage applications from underrepresented groups including women, ethnic minorities, LGBTQ+, neurodivergent and people with disabilities. We are committed to providing an inclusive and accessible recruitment process that reflects our workplace culture. We are a registered Disability Confident Employer, Mindful Employer, Endometriosis Friendly Employer and a member of the Armed Forces Covenant. Hippo continually strives to remove barriers, provide accommodations and offer reasonable adjustments to ensure equity throughout our practices.
+
+Hi, we’re Hippo.
+
+At Hippo, we design with empathy and build for impact. We do this by combining data-informed evidence, human-centred design and software engineering. We're a digital services partner who is genuinely invested in helping our clients thrive as modern organisations. Our delivery methodology is truly agile, from concept to reality, supporting innovation and continuous improvement to achieve your desired outcomes.
+
+We firmly believe that technology should serve humanity, not the other way around. We take a human-centred approach to everything we do because we understand that complex problems require a service design approach. This means understanding how users behave and ensuring our solutions work for them in the real world.
+
+Our combination of data, design, and engineering delivers bespoke digital services that make a positive and meaningful impact on organisations and society. We're confident in our abilities, authentic in our approach, and passionate about what we do. If you're looking for a digital services partner that can deliver real results, let us help you build for the future and make a lasting impact.
+
+Hippo locations
+
+We are headquartered in Leeds and located across the UK in Edinburgh, Manchester, Birmingham, London and Bristol. We're on the lookout for top talent nationwide, so don't let location hold you back from applying. We welcome candidates from all over the UK who possess the flexibility to work from any of our locations. Plus, we offer a generous relocation support package of up to £8k to help make your move a smooth one. It's worth noting that, given the dynamic nature of our business, you may be required to work on-site at client locations or from your own home.
+
+
+Desired Skills and Experience
+data

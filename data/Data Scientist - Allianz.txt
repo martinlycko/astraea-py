@@ -1,0 +1,88 @@
+https://www.linkedin.com/jobs/view/4092140917/?eBP=CwEAAAGT6LYaQsz4hPmhYjXhTXd8QBd3kkpDgQSVlOB0geO7mZefI9U3NyInFIdjkccUtc7Ccx7a-PPuEHyJPW4K5EKiZmAP9I0II2nGDpZZqBIEhkmhHSfyg3kAUeoyNgzGaSwPF5x2Ia5iEInT3gTy5ZQhvBhmX6wQ6T9SJCRsF2_NYWPxIX77-hO8DGMgbgb07ohSMT8133DSRlwgfYVmrifgU-I5KEx8lh9Mvbsx1CGVoultyyWqlCOIVraKNXZeqXsSE65k2ljc4XtoUpdultKoSNOiYHZDXEgumE-9hRogQBfxNMMayheReghF-_ZvTarAT9jJu_VoBrCB8DyKIrfAqaTxxukY0SFnzLgAJrnAcblxfBh25Kq4uupqRhwG2vHr8sMfZP4kfbKTnhnZ84px617BBs-Gf0s6moOgComwuCsHoZP-FdV4wAL4pHznWejcGA9htFUjZIZdiiWGEklDRkErRRhFVkg&refId=pKwStBfIxHTqjuGAA6EnPg%3D%3D&trackingId=o6SfK9S7covpcYFMqa%2FyEA%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Location: Guildford/hybrid
+
+Salary: Dep on exp + annual bonus + benefits
+
+Who We Are
+
+Allianz is a global insurance company serving across 70 different countries, but from the very first day you join our team you’ll know that your contributions are valued. We offer world class learning and career development opportunities, while we celebrate an inclusive culture.
+
+ We are currently looking for 3 Data Scientists to join our Data Lab at Allianz UK… 
+
+ Data Scientist - Analysis 
+
+The ideal candidate for this position will be enthusiastic about data, has a solid foundation in analytics and machine learning, and can translate data into actionable insights that drives business decisions. In addition, you must have experience with data wrangling, data mining and visualising results from data for multiple stakeholders.
+
+ Data Scientist - Enrichment 
+
+In this role you will have input into the Data enrichment strategy and optimise our external Data capability by carrying out detailed and sophisticated analysis to support achieving performance metrics and corporate planning. You will be looking to innovate across data, software tooling and technical approaches to deliver our enrichment strategy.
+
+ Data Scientist – Geospatial 
+
+This role is centred around the use of geospatial data to solve complex problems across business functions. Leveraging your expertise in geospatial data analysis, machine learning and statistical modelling, you will contribute to the development of insurance products & services.
+
+61875 | Data & Analytics | Professional | Allianz UK | Full-Time | Permanent Warning: When posting this job advertisment on an external job board, the length of the following fields combined must not exceed 3950 characters: "External Posting Description", "External Posting Footer"
+
+ Main responsibilities: 
+
+ Work closely with business stakeholders to understand data requirements and formulate data-driven solutions to address specific challenges or opportunities. 
+ Analyse large and complex datasets to identify patterns, trends, and opportunities for optimisation. 
+ Develop and implement advanced machine learning models for predictive analytics. 
+ Conduct statistical analysis and hypothesis testing to validate model performance and make data-driven recommendations. 
+ Collaborate with data engineers to integrate data from various sources and ensure data quality and consistency. 
+ Create data visualisations and dashboards to communicate insights effectively to stakeholders. 
+ Stay up-to-date with the latest data science techniques, tools, and best practices and proactively apply them to enhance our data science capabilities. 
+ Participate in cross-functional projects and contribute to the development of innovative data-driven strategies. 
+ Document methodologies, experiments, and results to ensure the reproducibility of analyses. 
+
+ About you: 
+
+ Proven experience as a Data Scientist , with a strong track record of developing analytical models and generating data-driven insights - essential. 
+ Proficiency in programming languages such as Python or R, and experience with data manipulation and analysis libraries - essential. 
+ Solid understanding of statistical analysis, hypothesis testing, and experimental design. 
+ Experience with machine learning algorithms and frameworks (e.g., TensorFlow, Keras, PyTorch). 
+ Familiarity with data visualisation tools (Plotly, Seaborn) to create informative visualizations. 
+ Strong problem-solving skills and the ability to translate business challenges into data science solutions. 
+ Excellent communication and presentation skills, with the ability to explain complex concepts to diverse audiences. 
+ Experience with Azure cloud platforms (Azure ML) 
+ Knowledge of big data technologies (e.g., Hadoop, Spark) is an advantage. 
+ Passion for continuous learning and staying updated with advancements in data science and analytics. 
+ Understanding of LLM’s and Knowledge graphs is advantageous. 
+ Bachelor's or master’s degree in Data Science, Computer Science, Statistics, or a related field. 
+
+What We Will Offer You
+
+Recognised and rewarded for a job well done, we have a range of flexible benefits for you to choose from- so you can pick a package that’s perfect for you. We also offer flexible working options, global career opportunities across the wider Allianz Group, and fantastic career development and training. That’s on top of enjoying all the benefits you’d expect from the world’s number one insurance brand, including:
+
+ Annual bonus scheme 
+ 25 days holiday plus bank holidays 
+ Contributory pension scheme 
+ Life cover 
+ Group Income Protection 
+ Flexible buy/sell holiday options 
+ Flexible working arrangements 
+ A discount up to 50% on a range of insurance products including car, home and pet 
+ Retail discounts 
+
+Our ways of working
+
+Do you need some flexibility with the hours you work? Let us know as part of your application and if it’s right for our customers, our business and for you, then we’ll do everything we can to make it happen.
+
+Here at Allianz, we are signatories of the ABIs flexible working charter. We believe in supporting hybrid work patterns, which balance the needs of our customers, with your personal circumstances and our business requirements. Our aim with this is to help innovation, creativity, and you to thrive - Your work life balance is important to us.
+
+Our Purpose and Values
+
+We secure your future
+
+Be Brave | With Heart | Everyone Counts | Inspiring Trust
+
+Our purpose and values are more than just words on a website - they are the why and how of Allianz. They influence everything we do and guide us how to do it. Created by our people, for our people, they shape our culture, bring us together, and inspire us to be the best. Building an inclusive culture for us all to succeed.
+
+Diversity & Inclusion
+
+At Allianz, we value diversity and inclusion and back this up with our accreditations. Allianz is EDGE certified for gender inclusion, members of the Women in Finance Charter, members of the Stonewall Diversity Champion programme, signatories of Business in the Community’s Race at Work Charter, and an Armed Forces Covenant gold standard employer.
+
+We have a range of employee networks focusing on gender inclusion, cultural diversity, LGBTQIA+, disability and long term health conditions (including neurodiversity), intergenerational and life stages, parents and carers, mental wellbeing, menopause support and armed forces and veterans, all supporting you to bring your best and authentic self to work.
+
+Join us - Let’s Care for Tomorrow

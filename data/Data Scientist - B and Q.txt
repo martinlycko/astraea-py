@@ -1,0 +1,56 @@
+Link: https://www.linkedin.com/jobs/view/4059223049/?eBP=CwEAAAGTkxuWiL_76N3Yg-bsylfX4rwTEnLQgOrRAEcYIslHhd5JLH-z-Bx63-T2RnGXYA2NG49XXMXUq_5Qv-hLjSayVwJsaN7rOQMBxOQwPX6qovMOj_i-mOjoNNXh6KiAx2FK_OnCwOXFNXSgL2WozXgL-Ufc4FKHoRPdHP5lIcCS-72FuF2vF8gh0bf4qWuQPpWauQ3glQymQU2uTpfcCcNLNmfnBNRRfSjT9nir3wgwdN9c14_4aULAggWzWwvyAefaycONwLDq7uWzo4bfrYAUapk4bSbghcXpMmh59SbTQke0WN3jA7v9iwOcouRTeQTwJSBs1RnYrjMeOLEMlUjrwZxowzPESiNZsTfNYqReu7LnTJHz0VR-bziB8BT28O8reQfSVX-QzZpFbiyZF-diDfLoRXLWfD1J30jiI7AjVgGmeP32L8YiAUoDFnlHf-d9TPjoYM9XwOVh4AeE9G0n44m2cryhSkWytzFkNiA&refId=3jcKdmrn6PQ7ANrX78i20w%3D%3D&trackingId=AQ5Tlq3o6Ba99TxpjHLtmQ%3D%3D&trk=flagship3_jobs_discovery_jymbii
+Title: Data Scientist
+Company: B&Q
+
+Location: Chandler's Ford/Southampton
+Workmode: Hybrid
+
+Hours: Full-time
+Contract: Permanent
+Salary: 55000
+
+Skills:
+
+Description:
+We believe anyone can improve their home to make life better. From our Southampton Store Support office (SSO) we equip our stores, our people, and our whole business with everything it takes to help our millions of customers create a home they’ll love. Join us as a Data Scientist and you’ll be a big part of this.
+
+Key Responsibilities
+
+Working within the Analytics and Data Science team, under the leadership of the Data Science Manager, the Data Scientist will work to produce complex data science models and analytical projects. They will interact with a varied group of stakeholders to drive up the understanding of customers across the organisation, helping to shape our future strategies, improve customer experience, deepen engagement, drive revenue, and improve business efficiencies across both B&Q and TradePoint.
+
+If you would like to work in a collaborative, fast paced, encouraging and future thinking environment, where you’re empowered to be creative and drive performance… then this could be your next role.
+
+Key Accountabilities / Responsibilities
+
+Develop new and improve existing models of customer behaviour under the direction of the data manager within the team. Be that churn models, time series forecast models, value assessment of the customer base or other more specific and target models.
+Contribute to develop new and improve existing segmentations that can used in marketing activity and across the business, to both help target and describe customers.
+Deploy models into production so they can be consumed by other analytical teams across the business.
+Deliver complex descriptive and predictive customer behavioural analytics.
+Bring external thinking to B&Q by maintaining an awareness of analytics usage in retail and other sectors and by keeping abreast of competitor technology and developments.
+Support the growth of new channels, Services, Digital, MarketPlace and Retail Media through the use of “Next Best Offer” engines and other models and segmentations.
+Build relationships with key stakeholders from across the business, with the Data Science Manager, helping to translate their ambitions and goals into data science products.
+Work closely with Kingfisher Group Data Science, collaborating closely with and delivering against a shared data science roadmap.
+
+Required Skills & Experience
+
+Required Skills & Experience:
+
+You’ve working knowledge in either Python or R with a strong ability to use SQL.
+You’ve excellent analytical skills and statistical understanding, including experience with: predictive modelling, segmentation, time series analysis and have had hands-on experience in their application.
+You’ve had some experience using cloud based analytical platforms such as Databricks, Snowflake, Google BigQuery etc.
+You’ve a strong commitment to accuracy and rigour in the analysis produced.
+You are empathetic to the importance of Data Governance and good Data Quality.
+You have a strong attention detail and are willing to take the time to ensure the accuracy of your work.
+You’ve used Jira/Confluence before for managing workloads and documentation.
+You’re curious: about how things work and getting to the bottom of business problems and data nuances.
+You understand and maximise the value of analysis and data science, and act with a commercial lens, prioritising the actions and usefulness of outputs.
+You’re a good storyteller who can bring that value to others – you know numbers don’t always speak for themselves and have excellent visuals to support.
+You’ve an awareness and understanding of technology and trends in Data Science and Analytics.
+
+What's in it for me?
+
+As part of a great team, you’ll be valued for who you are.We’re committed to making B&Q more diverse and representative of the communities we serve, where everyone can feel they belong and have equal opportunities. You will have access to a range of networks that represent our colleagues and allies and help us to continue to put diversity and inclusion at the heart of our business.
+
+We also recognise that wellness means different things to different people, and we want to help colleagues be at their best and feel well by offering a range of benefits to help you. As well as a competitive salary, our benefits package includes an award-winning pension scheme, bonus, ShareSave options, 6.6 weeks holiday, payroll giving, an Employee Assistance Programme, shopping discounts, colleague wellbeing benefits and lots more!
+
+So we can support you during the application or interview process, please contact recruitment@b-and-q.co.uk for any recruitment adjustments.

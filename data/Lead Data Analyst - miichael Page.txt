@@ -1,0 +1,31 @@
+https://www.linkedin.com/jobs/view/4096520586/?eBP=CwEAAAGT6Lsjka1uWFCPMyRnVbU9o98zBJuIxSCcbvRr98crqFUJ7SM9AFi4Qk6TN3vpZBcC9EyzyOZlD1HRaI5hSPyYc7dsFbkjZPvPsK0Q5He6FNBHN2TjP-mgvD7wWsfjAVFjIJzeVJ9SdyMDAOlkEo-R2TkKPD_x23SiA-uZ0_oi6LsqIMkTaytkpX1STeMZB1a9DKD9mm0Iy4JbJ6P1zT8YJMnEoIMMbl3H62Kzk7LwicIMGwLyXOJr5ugIws6-sfqpHDdw9q_2Q35Upy-iNkjkKNRWhwtA7i1xHXZCIOpx5THuEDAavhSCkQBUR-o8k-CRXuWFJ3QvVSTPHMoulrWjs6HVtsnxiEhFQpWDhw55C2DPvAtIuOlKkgh2349YeDkb764wwfbtymCvFQNGQtAfxTUXmoIyPwwINdWD8etMr5PRIqgTVdf3hAJ67YZKUW094P_1FipWBmNUsLlRvBaDClaGbszhtzNah_V9PtJlew&refId=F%2FJPVgnWDhTs6WfJ8tZ9aQ%3D%3D&trackingId=RsZDXgBGOqiWvY1jejl6XQ%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+The Lead Data Analyst will leverage tools like Snowflake, dbt, Python, Tableau, and Metabase to perform advanced data analysis, build visualizations, and deliver actionable insights. The role involves collaborating with stakeholders to solve complex business problems and mentoring junior team members to uphold analytical standards.
+
+Client Details
+
+My client is a rapidly growing fintech company that provides embedded financing solutions for global e-commerce platforms, tech companies, and payment service providers. Their innovative platform offers AI-driven credit risk assessment, enabling merchants and SMEs to access fast and flexible funding. Operating in multiple geographies across the UK, EU, and US, they are shaping the future of financial services with customer-centric, tech-driven solutions.
+Description
+
+ 
+
+Perform advanced analysis using trend analysis, segmentation, and statistical methods to generate insights and solve business problems.
+Build strong relationships with stakeholders to understand business context and drive high-velocity problem solving.
+Communicate findings through dashboards, graphics, verbal explanations, presentations, and technical write-ups.
+Set the standard for high-quality analysis in both technical skills and writing, mentoring junior team members.
+Make analyses repeatable and shareable by utilizing version control, notebooks, and accessible documentation.
+ 
+
+Profile
+
+The successful candidate will have a strong background in data analysis, with proficiency in tools like Snowflake, dbt, Python, Tableau, and Metabase. They will possess excellent problem-solving skills, the ability to communicate complex insights clearly through various mediums, and a proven track record of working closely with stakeholders to drive business solutions. Strong technical expertise and the ability to mentor junior team members are essential. A preference will be given to candidates with experience in the financial services sector, as it will help them quickly adapt to the business context and challenges in this role.
+
+Job Offer
+
+ 
+
+Competitive salary up to £115k
+Performance-based bonus
+Stock options
+Comprehensive benefits package, including private medical insurance, subsidized lunch, gym access, and more
+Hybrid working with 3/4 days a week in the Central London office

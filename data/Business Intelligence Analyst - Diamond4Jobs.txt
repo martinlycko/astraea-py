@@ -1,0 +1,28 @@
+Link: https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4067530875&discover=recommended%2Ctop-applicant%2Chiring-in-network&discoveryOrigin=JOBS_HOME_COMPETITIVE_ADVANTAGE_JOB_COLLECTIONS
+Title: Business Intelligence Analyst
+Company: Diamond4Jobs
+
+Location: Basingstoke
+Workmode: Hybrid - 2 office days
+
+Hours: Full-time
+Contract:
+Salary: 45000
+
+Skills:
+
+Description:
+We're looking for a Business Intelligence Analyt to join a an innovative, market-leading Financial Services company. You'd be joining an expanding Data Team, at an exciting time within the Bank's growth strategy. You'd be working with some of the latest Microsoft tooling, talented colleagues, and within an organisation that not only offers excellent benefits, but also highly values personal development.
+
+Responsibilities
+
+ Working with the Head of Data, Senior Business Intelligence Analysts, and the rest of the Technology team to develop new reporting required to support business change initiatives, as well as to optimise all Data solutions available via our central Data Platform, through understanding stakeholder needs, current data flows/models, and being able to convert these efficiently into accurate, new or enhanced outputs;
+ Working with the necessary stakeholders to ensure accurate reporting, conducting the necessary detailed review of individual data items, through to enabling more automated validation to support more efficient change delivery;
+ Ensuring Data Standards are upheld in any development, so that security, data protection, governance and audit requirements are included by design;
+
+Your Experience
+
+ Skills designing MI/BI solutions in PowerBI;
+ Expertise in best practice in relation to Power BI model development, reporting design and collaborating with stakeholders to deliver data solutions;
+ Experience working as a Business Intelligence Analyst / Data Analyst / Business Analyst;
+ Experience in partnering with business teams to support them in delivering the data required to gain insights into business performance or to provide data solutions for regulatory or reporting requirements.

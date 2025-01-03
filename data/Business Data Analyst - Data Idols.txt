@@ -1,0 +1,60 @@
+https://www.linkedin.com/jobs/view/4103735823/?eBP=CwEAAAGT6Lc1eFwAxkSJztjDcuaaiBamJB_TmtZALsJiJhLcJUL1OHyUF4cCxC2rDMzXW9H2m_bskoFqvPZpDKCmFSUEFBeY7F-0jCZwXtAefdAl_eKz_KJ_Zzt6eXjADT0UHP35bz_FUMuQyg7ffa5mcBdeqyLZ23UXZ6lu5EKa09wOYsrm0SJhWk6brjkfS5B-Bm2mYJdv2LP5SYuzCEyhdTNv0d57VLBwJhXjWT8UC447ux0bnT4lXbJ9TACbVFh5Alx1_ah6in83q5_OnggaECdzMShxoRrM6ipIl6Kjozke0q1Sxn2PoJPwA_vRUKjgpalPiaLjYC3QclOnOFPFYHXF9OaavYXRWel3xeSvj3L_vLT6bwVXJ4cUCfjatWmRIfbdXZhV7xoKqsvDOPK_lSFmM-9t1DZQwTYL4SkLA6xih-KpYLYzkz1EYczEaOCdKwu5CbCNeuDoeKqNJLmTSyjX12tUv4cQIHObRqw3_-X-CA&refId=OReT4UGl%2FG6lzUBNbB5cnw%3D%3D&trackingId=9GkozSBXleQRN18Yy29ozQ%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Business Data Analyst
+
+
+
+Salary: £450 - 550 / day
+
+
+
+Location: London Hybrid or Remote
+
+We are currently looking for a Business Data Analyst to join our fast-paced and innovative team within a globally recognised retail company. Reporting directly to the Data Governance Manager, you will play a pivotal role in shaping and executing the organisation's data framework. This is an exciting opportunity to contribute to critical areas such as data modeling, data quality, governance, and management, while supporting the onboarding of products onto Microsoft Purview 2.0.
+
+As a Business Data Analyst, you'll be key in ensuring that business processes are mapped effectively and stakeholders are well-managed. This role is perfect for someone who thrives in a collaborative environment and enjoys working at the intersection of data and business strategy.
+
+
+
+
+
+The Opportunity 
+
+In this role, you will:
+
+Execute the business data framework focusing on data quality, governance, and management.
+Collaborate with stakeholders to ensure seamless onboarding of products onto Microsoft Purview 2.0.
+Interpret and understand complex data schemas, with an emphasis on snowflake schemas.
+Support business process mapping at levels four and five, ensuring alignment with organisational goals.
+Engage with cross-functional teams to drive data initiatives and foster a data-driven culture.
+What sets this opportunity apart is the chance to work with cutting-edge tools like Microsoft Purview 2.0 while contributing to a global retailer's data strategy. This role doesn't require you to build data models from scratch, allowing you to focus on delivering high-impact business outcomes.
+
+
+What's in it for you? 
+
+Competitive rate.
+Flexible working model..
+Opportunities for learning and development within a global organisation.
+Work in an inclusive, supportive environment that values innovation and collaboration.
+
+Skills and Experience
+
+Must-Haves:
+
+Solid understanding of data governance, data management, and data quality principles.
+Ability to interpret and work with data schemas, particularly snowflake schemas.
+Experience with data governance tools, ideally Microsoft Purview 2.0.
+Proven ability to conduct business process mapping at levels four and five.
+Strong stakeholder management skills, with the ability to influence and collaborate effectively.
+Nice-to-Haves:
+
+Familiarity with retail industry data processes.
+Experience in a global or matrixed organisation.
+Certification in data governance or management frameworks.
+If you would like to be considered for the Business Data Analyst role and feel you'd be an ideal fit with our team, please send your CV by clicking the Apply button today.
+
+Take the next step in your career and join a team that's redefining data excellence in retail!
+
+Desired Skills and Experience
+
+Process Mapping|Data Governance

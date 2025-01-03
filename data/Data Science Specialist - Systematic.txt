@@ -1,0 +1,60 @@
+Link: https://www.linkedin.com/jobs/view/4035758219/?eBP=CwEAAAGTkxuWh5aEXTnSi1fJUC8a6O09pOl8Uk6Yp2w48EAzd5mr9n48J0sLVmPFwbq4IZ_qarO9snYVeeStUUeKJXDT0UT7_th8CBWSqoGLisWhL2U9vb5mkBSIvGgtLOMRw5hIkUUjY_ssyJBWDkMXCUcMYEgCYZ-lR2OHR03NfwbY2nCwkh1baqGYBJOfEkdfC6rrl6LN0_2uqMDpQ93Nnp88RCEo0vTyq2ZURCcClh61-lUhjBPrL5-L08J4OhovavNfSI3CNurXUn_DArorQnkJ_alwe5sUWka9qVMJbm8iancNVEbYHc87_vNliBauDaHy857G57M5f5oPVW1Ajj4meaafASGz2_vJm9SkNBg9Tu3g9O_XlVsaBj4hquFkBsG5u-sq0xffJjyVB3UUpkursF8wqiKa8m7mUSxFJbUXCKqyqztYeW2DcwowOxCZiU1MNNYxxIeBDR0elvuZkW-_aINvOms412wQ-w&refId=3jcKdmrn6PQ7ANrX78i20w%3D%3D&trackingId=5J6cKJJB9Hl7cLPTbas9xg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+Title: Data Science Specialist
+Company: Systematic
+
+Location: Farnborough
+Workmode: 
+
+Hours: Full-time
+Contract:
+Salary:
+
+Skills: Data Analytics, Data Science, Business Intelligence (BI)
+
+Description:
+Data Science Specialist – use your expertise to integrate, analyse and visualise data from our Defence customers to make a real impact
+
+Join our dynamic UK Defence Services team and transform military data into actionable insights. Use your expertise in data integration, AI, and system optimization to support critical defence operations. Be part of a global team driving real-world impact—apply today! 
+
+Join our growing UK Defence Services team
+Our Defence Services team in the UK works closely with military customers and front-line users of Systematic’s software products. We are a small, multi-disciplinary team of technical experts, engineers, software architects, trainers and project managers, whose expertise is highly valued by our customers in the UK and across Western Europe. As a member of this team, you will support the delivery of our broad portfolio of projects, collaborate with colleagues in the other Defence Services teams around the world, and support business developers with new sales opportunities to help drive our continued growth.
+
+Transform Defence Data info actionable insights:
+ Integrate and streamline data for real-time operational success
+Drawing on a strong technical skillset in data science, data analytics, and information systems, you will work directly with our Defence customers to help them extract valuable insights from their data, to inform critical operational decision-making. You will be responsible for integrating and processing data from multiple systems and ensuring it is accessible and actionable within our platform and meet the needs of military users. Your work will involve using low-code/no-code tools to design and manage data workflows, performing data transformations, and occasionally scripting in Python to handle more complex tasks.
+
+As well as technical expertise, the ideal candidate will also have experience in external customer-facing or consultancy roles, working directly alongside users to understand their needs and challenges. You will have a strong focus on solving problems and delivering successful outcomes to customers.
+
+Some of your key tasks will include:
+
+Data Integration:
+ Ingest data from various external systems and sources into our internal platform. Ensure seamless data flow between different systems, enabling real-time or scheduled data synchronization.
+Data Processing and Transformation:
+ Utilize low-code/no-code platforms to design and manage data pipelines. Transform raw data into structured formats suitable for reporting, analysis, and visualization. Apply business logic and data mapping to ensure data consistency and accuracy.
+System Integration:
+ Integrate and configure various software systems to work together, ensuring data is properly exchanged and utilized. Collaborate with IT and development teams to ensure integrations meet technical and business requirements.
+AI Service Integration:
+ Integrate AI services into data workflows to enhance data processing capabilities. Utilize AI/ML models for tasks such as data classification, prediction, or extracting insights from unstructured data.
+Data Reporting and Visualisation:
+ Ensure transformed data is properly indexed and made searchable within our systems. Display processed data in dashboards and reports.
+
+
+Qualified Data Science Consultant skilled in data integration, APIs, cloud platforms, and problem-solving with strong collaboration abilities
+To succeed in this role, we imagine the right candidate to have…
+Technical Skills:
+ Experience with data integration tools, such as NodeRed, Apache Nifi. Familiarity with APIs and AI services (e.g., using AI/ML APIs for data processing tasks). Knowledge of JSON, XML, and other data formats.
+Experience:
+ Proven experience in a data integration or system integration role. Experience with cloud platforms (e.g., AWS, Azure) is a plus.
+Soft Skills:
+ Strong problem-solving skills and attention to detail. Excellent communication and collaboration abilities. Ability to work independently and manage multiple tasks simultaneously.
+Educational background:
+ Bachelor’s degree in computer science, Information Technology, Data Science, or a related field, or equivalent work experience.
+
+
+Please note that you must be eligible to live and work in the UK, and must meet the requirements for UK Security Clearance. Read more here.
+
+Never stop developing 
+Systematic is truly international and uniquely people-centric. Together, we write intelligent and innovative code to drive progress and improve lives, delivering it to our many customers and supporting them in its use. We develop IT solutions that make a real difference where it matters most. This is why we never stop developing. Here, we are committed to being more than just a workplace – Systematic is a community where professionalism meets personal connection and provides a sense of belonging and pride.
+
+Start your development here
+We will be assessing applications on an ongoing basis as we wish to welcome our new colleague as soon as possible, so click Apply Now and send us your CV today.

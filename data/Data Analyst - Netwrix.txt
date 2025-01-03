@@ -1,0 +1,44 @@
+Link: https://www.linkedin.com/jobs/view/4058441140/?eBP=CwEAAAGTkzFhOaT7E6W2afnZ-JjhvPMQfcNSAREjbJ6Ti_SHSOdjR5G4ieXHgB0qFZ112DEvdO-9xLYxsy6jamOEAm_oPS5xfQMbsBbAqtlM89ylXJdct8bBJToqYhOuwsBzMsO97N9soRJtL2nlm_u1lybfeZ_iZ7KQ8KArq5uyY681tv0n5vsygmkLVmZsbFDR1J9gmMDGoQWdGfo2shp6MOsFB8LpyEyFjZPz6Xey_UjS2maorRp6ELkS-XH8tJ6yHYQ7A50EoRUwZnppIynxJltLlIfrjeEFI0vtBhYecTXYMn3_EjnEwBaJcmnhdWS5VNj7qAQ64RMMztsP1syPphVI7lXs3POAd76aCf-xZQdU4El8JZ9JKdunp7aWCRWW9MTtmUOF0IIR78lj4cExQNnzyp4Wu3dOpIh2fO9HRdn8ZS0WgCi4VG-o83HPX80zYm0C9mZL&refId=WV99ejWLrIJc0mx066y5xg%3D%3D&trackingId=efCKGHxQkKrFuHxiTMoC8g%3D%3D&trk=flagship3_jobs_discovery_jymbii
+Title: Data Analyst
+Company: Netwrix Corporation
+
+Location: 
+Workmode: Remote
+
+Hours: Full-time
+Contract:
+Salary: 50000-120000 USD
+
+Skills:
+
+Description:
+We are seeking a highly skilled Data Analyst to join our team. As a Data Analyst, you will be responsible for analyzing and interpreting complex data sets, identifying trends, and providing insights to support business decisions. You will work closely with cross-functional teams to ensure data accuracy and completeness, and develop reports and visualizations to communicate findings to stakeholders. The successful candidate will have a strong analytical mindset, excellent problem-solving skills, and the ability to work independently and collaboratively in a fast-paced environment.
+
+Minimum Qualifications:
+
+8+ years of experience in Power BI, with strong expertise in DAX and SQL.
+Proficiency in data analysis, ETL/ELT processes, and Python scripting.
+Experience with Airflow and Azure cloud technologies is a plus.
+Excellent understanding of data modeling and data warehousing.
+Strong communication and collaboration skills.
+
+Preferred Qualifications:
+
+Master's degree in Computer Science, Statistics, Mathematics, or related field
+Experience with SAS or other statistical software
+Experience with data extraction and cleansing
+Experience with machine learning algorithms and techniques
+Excellent communication and presentation skills
+
+Responsibilities:
+
+Collect and analyze large and complex data sets using various tools and techniques
+Identify trends and patterns in data and provide insights to support business decisions
+Develop and maintain reports and dashboards to communicate findings to stakeholders
+Collaborate with cross-functional teams to ensure data accuracy and completeness
+Write complex DAX and SQL queries for data extraction and transformation
+Lead ETL/ELT initiatives, ensuring data accuracy and integrity
+
+Skills:
+
+As a Data Analyst, you will use your expertise in data cleaning, pivot tables, R programming language, SAS, data visualization, data cleansing, Power BI, Tableau, and data extraction to collect, analyze, and interpret complex data sets. You will work closely with cross-functional teams to ensure data accuracy and completeness, and develop reports and visualizations to communicate findings to stakeholders. Your strong analytical mindset, excellent problem-solving skills, and ability to work independently and collaboratively in a fast-paced environment will be critical to your success in this role.

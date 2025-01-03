@@ -1,0 +1,36 @@
+https://www.linkedin.com/jobs/view/4096389966/?eBP=CwEAAAGT6Lwo1QTHfDSVhHJHNFkCsBZF7kv4C_y5cnD8YjlS4seWuDcMB-biKt2ENlZnmkx_Uu3rvj_5tS9GREBmRtuJD8G_InHKQ48yTsbvLsea1zhT6it4-eJvvc9d_Iwlk-ZAz--HfXHVeiC_78pZPEBm-iHOPku8yVX40y0QX7L4QdizIW1B8hf026CBPj2uF_OO_DkgNlNS4erlzZ-YKf5_L5ttvxgpqjHuAHI8_s76MgfDkWOCmGHSc_bybwWdnODS01wdfkenG1hg8CGc3jAPpesWLAoI2uaq5RQ5NQGNqYdyZ1yP0PPyzKH0W663F7LAeK0M4xxvEkN7cGWVYVNdY8FVBv5zhfttb4O2_ZksV7e_pq9iwBEO6gx498DvBqm-SLbqgUkgG-1jvVhyadKGaxWs-MPv72XMMGlGtOr-sfdWSWM3ONKe6p_A5K27rgpoa5c8qMrjEZt9DeRyBz-ZdW5oVRXTpKxxzP33rG29SA&refId=cveWgv%2F0rSJUyr8B6XaZgA%3D%3D&trackingId=99wjSTYMM7AVq0ZjjTJBsw%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Quantitative Developer - Credit Trading 
+
+Title/Level: Associate to Vice President
+
+Headcount: 2
+
+Location: London
+
+Compensation: £125k - £150k + Bonus
+
+
+
+We are leading the search for two Associate to VP level Quantitative Developers to join a rapidly expanding automated market making desk at a tier 1 investment bank. This is a fantastic opportunity to play a pivotal role in the development of analytics and processes which enhance the way they serve their clients.
+
+
+
+Responsibilities:
+
+Develop, implement, and enhance quantitative models for the credit trading business, utilizing a powerful blend of data-driven insights, traditional statistical methods, and cutting-edge machine learning techniques.
+Design and steer the evolution of the codebase, collaborating seamlessly with cross-functional teams to drive scalability and maximize impact across the organization.
+Clearly communicate and demonstrate complex quantitative models and their calculations to stakeholders across trading, risk, and IT teams.
+Provide support for existing models, and contribute to the continuous improvement and evolution of the systems.
+
+
+Experience and Requirements:
+
+5+ years of experience writing production level python ideally within a global investment bank but also open to senior software engineers technology companies.
+Masters/ PhD degree in a STEM based subject.
+Strong programming skills in Python; proficiency in additional languages such as KDB+/q, C++ or JavaScript is a plus.
+Experience building visualisation tools using Angular or React.
+Strong problem-solving abilities and a deep understanding of pricing models and quantitative techniques.
+
+
+If this would be something of interest to you or you would be interested in finding out more, please contact me at l.couronne@gcstechtalent.com.

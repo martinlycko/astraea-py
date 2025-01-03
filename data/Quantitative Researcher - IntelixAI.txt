@@ -1,0 +1,88 @@
+https://www.linkedin.com/jobs/view/4102554980/?eBP=CwEAAAGT6LuuJ2jYvaYMSD48VpyUPTnOpFy58i_8xZkWgSpFQB4W38L3cPquPKFWJiERYzRqnhRLIvWFUh2fLb1FpoIOyktlxt9iPXMTBcTLi4Fw97v6XrfSzPn7GFTv2oa-SSiilLMc3v0_RexAAdCeVY_CILW5TG0NeVZDCVLLDTL4Q3GAdNcxIaVaX2huEpiYFNmvLVaufkVnq8K0-fsE1hWBZvh2MkvFijVqnBgJWiozTSQTPFjXzpKelJ2d-LWF-k9m8F2MAlLPkt8pQWAurmcDO7Z9yYBduDujKUKM_AUNwyDWqz-lH8zaCne3zTp555UacUB4sx9BRfogfEvgWK5frJRsXpMRTI8ahvIHCEB2NXNvkzMq5XdlJQMHp4uJ5MwU7lsSltX1ShhIE-RtfTlmkydCNFb_uTu2O-SH9sajzE-YkkI-NMpQ3M1Igjaz3INAiBqMUTaTnPvuMAKLkABMvkBiqxMQKlmgB60tvyo&refId=9hwa7Rx8H%2BlbGXD4Ry18BA%3D%3D&trackingId=cj9nzqmvS9%2BGZBd6rZHsJw%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Senior Quantitative Developer/Engineer
+
+
+
+This role will suit an autonomous and technically adept quant with deep expertise in fixed income modeling, who thrives on owning the end-to-end development process—from data sourcing and cleaning, to model design, back-testing, and performance optimization. The successful candidate will seamlessly combine rigorous mathematical modeling with advanced computational techniques, all while maintaining top-tier coding standards, documentation, and compliance readiness.
+
+
+
+Role Overview:
+
+
+
+As a Senior Quantitative Researcher, you will play a key role in the end-to-end development and refinement of advanced pricing, risk management, and trading models—particularly within the fixed income and rates space. The ideal candidate will operate autonomously, taking full ownership of the research pipeline, from initial hypothesis formation and data sourcing to model coding, testing, and implementation. Without the traditional support of business analysts, you will have the freedom and responsibility to shape the direction of your research and ensure the robustness, accuracy, and scalability of your models.
+
+
+
+Key Skills & Capabilities:
+
+
+
+Fixed Income & Derivatives Modeling:
+
+Proficiency in building and calibrating interest rate curves and employing advanced stochastic volatility frameworks for pricing and risk management of interest rate options.
+Mathematical & Quantitative Techniques:
+
+Strong grasp of numerical methods, optimization, and Monte Carlo simulation, enabling the construction of arbitrage-free curves, parameter stability, and model convergence under various market conditions.
+Programming & Automation:
+
+Expertise in Python, C++, or similar languages, with a focus on data ingestion, ETL automation, high-performance computing, parallelization, and memory management to ensure timely and efficient computations.
+Statistical Validation & Back-Testing:
+
+Ability to design and maintain robust back-testing frameworks, apply rigorous statistical analyses, hypothesis testing, and performance metrics to validate and refine trading signals and model assumptions.
+Data Handling & Integration:
+
+Competence in acquiring, cleaning, and integrating complex datasets from multiple sources without external support, ensuring data integrity, reproducibility, and scalability.
+Documentation & Model Governance:
+
+Commitment to disciplined coding practices, comprehensive documentation, version control, and auditability to meet internal risk standards, comply with regulatory requirements, and maintain high-quality model governance.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+
+Model Development & Enhancement:
+Independently conceive, design, and optimize quantitative models for interest rate derivatives, government bonds, and other related fixed income products.
+Data Pipeline Management:
+Identify, gather, clean, and prepare data sources—both historical and real-time—integrating them seamlessly into the research framework without dedicated business analyst support.
+Back-Testing & Validation:
+Implement rigorous performance tests, run simulations, stress-test model assumptions, and continuously refine approaches based on empirical results and changing market conditions.
+End-to-End Ownership:
+Oversee all stages of research execution, from initial idea generation to final coding, deployment, and documentation, ensuring that models adhere to high standards of governance, auditability, and reproducibility.
+Strategic Collaboration:
+Communicate complex modeling concepts, performance metrics, and insights effectively to portfolio managers, traders, and risk managers, ensuring models align with broader portfolio objectives and risk parameters.
+
+
+
+
+Ideal Candidate Profile:
+
+
+
+Educational Background:
+An advanced degree (PhD or Master’s) in a quantitative field—such as Mathematics, Physics, Engineering, or Computer Science—from a top-tier institution.
+Domain Expertise:
+Proven experience with fixed income instruments, yield curve construction, and interest rate volatility modeling.
+
+
+
+
+Technical Proficiency:
+
+Strong programming skills in Python, C++, or similar languages. Familiarity with quantitative libraries, version control, and production-level code deployment is essential.
+Independent Execution:
+
+Demonstrated ability to handle every aspect of the research cycle without delegated support. Skilled at data wrangling, model calibration, and the proactive troubleshooting of technical issues.
+Analytical Mindset & Curiosity:
+
+Highly analytical, detail-oriented, and intellectually curious, with a genuine passion for exploring innovative quantitative methods and adapting models to evolving market conditions.
+Clear Communication:
+
+Ability to distill complex quantitative findings into actionable insights and convey them effectively to both technical and non-technical stakeholders.

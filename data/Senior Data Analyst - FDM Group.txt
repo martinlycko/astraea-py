@@ -1,0 +1,64 @@
+https://www.linkedin.com/jobs/view/4102993085/?eBP=CwEAAAGT6LqpqdLHZnysK1eUJQma0hGUAuSF3sI7jYyeTMD-E07eyf73IeWvO-PYHAgDXQoMqWPH6Bt4nqo7u7hHq6SgA8-4L6sgYBi0piZr8r2fRmSAD0M3ytL2Da_tlqxEMttWRwrhCDrPMxHWbcKBqwgf76GV4s4pfec-Zl93QnPxmS0zOxr0J7O1DsnFyh-VW0Cz8DCRzEgRULRGUfAS7g4HDtYrzD2i1jQCJ7ZZqE3Lm0oySnySS1s5STSUUA6VtOTJfLUSm3i4vn5xXyWjKG9C8zRWgA8LUCCZRdTuQnl-UOTOGDW46LyBptZWklyTfTqHMxsfXxMviW2KQNRffJBq1zgjcvwP0KbGIRvAJKPmnHrhpyS4687uFTQ1N1c-ZbiXf-Jq9fajrHkRdODH1FJ5J0tcChlAgqVgtDhTBq8cg_Amprf-gsIfyyRkpHLdcbUtfDfRlaXRHFPorlOPyn72u60l7VqGE0bJ42e9UqQ&refId=79R0wwNJsxAAyKQonDrpvg%3D%3D&trackingId=Qi3r6BycdfsKGM%2BvkKtHsg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+FDM is a global business and technology consultancy seeking a Senior Data Analyst to work for our client within the Financial Services sector. This is initially a 6 month contract with the potential to extend and will be carried out remotely.
+
+
+
+Our client is looking for a Senior Data Analyst to work within their Transaction Monitoring (TM) Unit. The team is part of Group Financial Crime Prevention, which provides group-wide solutions to fight financial crime. Our client is a full-service bank operating in multiple different business areas such as Large Corporates & Institutions, Business Banking, Trade Finance, Markets, Asset & Wealth Management and Personal Banking. The broader TM Unit supports all these areas offering excellent career development and skill diversification opportunities
+
+
+
+As a senior expert, you will play a valuable role to fight against financial crime, working with significant amounts of data to extract meaningful insights to develop, review, manage and optimise automated TM controls focused upon our client’s business. You’ll join a team where you can bring your talent and engagement to work in an international and dynamic environment. The position is likely to require occasional travel to our clients’ international sites.
+
+
+
+Responsibilities
+
+Working with data wrangling
+Independently driving initiatives, collaborating with the team, and influencing stakeholders to strengthen automated transaction monitoring controls
+Accessing complex and distributed datasets and performing statistical analysis, simulation of existing controls and assessing the impact of specific changes
+Working with the team and stakeholders to understand business requirement and developing technical design for TM Controls based on data insights
+Providing suggestions for the re-design of existing TM controls using Python
+Creating and maintaining dashboards in PowerBI
+Managing the optimisation of existing TM controls through quantitative data analysis (including Above and Below the Line testing)
+Analysing, assessing, and documenting the effectiveness of existing automated transaction monitoring controls
+
+
+Requirements
+
+You have a business mindset, and you are eager to understand both the business and technical sides
+Passionate about data and quantitative analysis, and you can perform all kinds of numerical and statistical analysis
+Team player with a positive attitude and want to secure everyone’s success in fighting against financial crime
+Self-driven, result oriented, and able to operate under pressure in a changing environment
+Honest and dependable, willing to speak up even when it’s difficult
+
+
+Technical Requirement
+
+Professional level of tools such as Python, SQL, R and Excel
+Confident using Power BI and a good understanding of working with data in Hadoop-Cloudera environment
+Academic degree in highly quantitative discipline or specialisation such as Physics, Mathematics, Statistics, Engineering, Quantitative Economics, Computer Science
+Experience working in Banking or Financial Services
+Previous experience in the Financial Crime Compliance field and good understanding of anti-money laundering/financial crime controls
+Previous experience in using optimisation algorithms and good statistical knowledge
+Analytical mindset and extensive experience working in data science, analysis and simulation
+
+
+Why join us?
+
+Career coaching and access to upskilling throughout your entire FDM career
+Initial upskilling pre-assignment that has been accredited by Tech Skills
+Assignments with global companies and opportunities to work abroad
+Opportunity to obtain certifications from Microsoft, Salesforce, Cisco and more
+Access to the Buy As You Earn share scheme
+
+
+About FDM
+
+We are a business and technology consultancy and one of the UK's leading employers, recruiting the brightest talent to become the innovators of tomorrow. We have centres across Europe, North America and Asia-Pacific, and a global workforce of over 4,000 Consultants. FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning employer and is listed on the FTSE4Good Index.
+
+
+
+Diversity and Inclusion
+
+FDM Group is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.

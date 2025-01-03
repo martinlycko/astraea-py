@@ -1,0 +1,267 @@
+https://www.linkedin.com/jobs/view/4083363621/?eBP=CwEAAAGT6Lmk11gQDSUcX__8gRvWMjM7YNXZ0WYANtklcwwl71mI2fsh2MfAv9TCdRfIXNmRFY7Oc1FvJ1mEBgHfZlA2fW2-9E0hdoQHHfszDjoe3MEr1xlrMYCXqTsjao-YkwAVwRfZKjpsLh_Ip7VpDoNr72m7eN61uoz6-phVFykA7sZpjo9K9CccLAZnVSMpBZlVuZc2m8n27QSOiJSISKAwmZXLMah_OkrslTyQpHHy2azMGF10X2WDjK_vzg7l0lsMs_4uWxU7HJJb1NXNusHPndSF3cPLY6oH_OlNzUvCxfiLi71pJM0UKALa5CpAUlx7HXY_KrYfVcZoiofLplx_U923BIaJnpPg-_nhwoHptakpmmANdyezS1LFcklAAkA7uq2fgF-ET5zkRRRpIxoy-SBGlGeTTgTGVH9kxWzBIkr17mskXKpEy7IQVMD2njA9CB33fKBOvFp9wXfqfM1Ujuot6ew7ZqOxFGPfhtZbjQ&refId=oKjE72J2Hn2cD3o2wG%2BDAg%3D%3D&trackingId=UuxtY3Gvm9y%2Be5t%2BzJLeig%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Role Title: Performance and Data Analyst
+
+
+
+TPR Grade & Pay Group : R&O 9 – Lead Associate
+
+
+
+Reporting to: Performance & Analytics Manager
+
+
+
+Directorate : Regulatory Compliance
+
+
+
+Starting Salary: Salary starting from £35,598 per annum dependent on skills and experience, plus excellent benefits package
+
+
+
+Contract : Permanent
+
+
+
+Location: Brighton/hybrid (6 days per month in the office)
+
+
+
+Closing date: 10 December 2024
+
+
+
+About us
+
+
+
+More than half the UK working population rely on The Pensions Regulator (TPR) to regulate their retirement savings. With a career at TPR, you’ll be joining an organisation that will impact on millions of lives for decades to come.
+
+
+
+Everyone at TPR plays an important role in helping to keep more than £2trn of savings safe. We’re committed to bringing people into TPR who are ready to make a difference and put UK savers at the heart of what we do.
+
+
+
+It is important to us that TPR remains a great place to work. We do all we can to help our people reach their full potential with learning, secondment, and development opportunities.
+
+We put our 900+ employees first, supporting flexible working and offer a diverse, lively, and inclusive environment. This includes our Family Network (Balance), Disability Network, LGBT+ Network (Proud), Minority Ethnic Network, Mental Health Network, and Women’s Network which offer spaces to connect.
+
+
+
+Our new corporate strategy outlines a bold and challenging vision of how pensions regulation should evolve to keep pace with a change in the scale and nature of the industry. We are at the start of that journey. Join us to find out what part you can play.
+
+
+
+We operate a hybrid working model, with regular attendance in our Brighton office to connect with colleagues across the business.
+
+
+
+Role
+
+
+
+We are looking for an experienced Analyst for the Regulatory Compliance directorate.
+
+
+
+The role will be working with large volumes of operational data, providing a wide range of analysis and management information (MI) which helps drive operational decisions across different areas of the organisation and supports day-to-day operations.
+
+
+
+The Analyst will be passionate about working with data, but equally be able to engage with non-technical stakeholders at all levels within the organisation, providing actionable insight to decision makers to help inform future directions of travel.
+
+
+
+Whilst the role will initially sit within the AE Performance and Analytics Team, ongoing work to determine the organisational design of the Regulatory Compliance directorate may mean that the team structure and consequently the focus of the role may change.
+
+
+
+This role will mainly focus on the following areas:
+
+
+
+• Supporting the effective implementation of strategies through reporting on internal and external operational performance.
+
+• Proactively developing analytical insight to inform operational strategy.
+
+• Producing bespoke analysis and data extracts in response to work requests received from stakeholders and to support projects.
+
+• Exploring, identifying, and reporting on trends, building assumptions and developing related non-financial forecasting of future demand and volumes for our operational teams and our external contractors.
+
+• Contributing to updating and shifting of existing MI and analysis into different platforms e.g. Power BI and helping the transition to a self-service model for stakeholders and customers.
+
+
+
+Responsibilities
+
+
+
+As a Performance and Data Analyst your main responsibilities will focus on the following tasks (please note this is not an exhaustive list and duties and responsibilities will change depending on business needs):
+
+
+
+• Fulfil analytical work requests from internal or external stakeholders in a professional and timely manner, with an appropriate level of engagement with stakeholders.
+
+• Extract, manipulate, analyse and present on large data sets using SQL and/or R, and visualisation tools such as Power BI and/or Excel to provide actionable insight to managers and decision makers.
+
+• Support the development, interpretation and use of control frameworks, KPIs, Operational Service Levels and Critical Success Factors which describe what success looks like.
+
+• Support the development of MI reports and dashboards with clear visuals, ensuring they continue to serve customers’ needs and support management decision making.
+
+• Provide strategic analysis to assist in achieving strategic objectives.
+
+• Maintain documentation of work requests received using DevOps, and store and maintain analytical code using Git, making improvements to code where applicable.
+
+• Provide peer review and QA of work produced by team colleagues, and regularly share knowledge across the team.
+
+• Identify, monitor and raise opportunities to improve data quality and data sharing.
+
+• Provide subject matter expertise on data held across the directorate.
+
+• Support the building and updating of forecast models, with maintenance of associated documentation.
+
+• Assist with answering Freedom of Information requests and with the external publication of information as official statistics.
+
+• Be a contributing and proactive member of the Regulatory Compliance directorate and the TPR analyst community.
+
+• Contribute to the vision of moving to an automated self-service model for stakeholders.
+
+
+
+Essential and Desirable Criteria
+
+
+
+Essential:
+
+
+
+• At least intermediate level knowledge of SQL.
+
+• Experienced in working with large volumes of data using a variety of tools, combining data sets or building data models to create reports that deliver insights.
+
+• Experience in using Power BI to pull together data sets and build reports from that data.
+
+• Excellent data visualisation, analysis, and problem-solving skills.
+
+• Proficient in standard Microsoft Office applications with a high degree of proficiency in Excel.
+
+• Ability to communicate effectively with both technical and non-technical colleagues at all levels in both verbal and written communications.
+
+• Educated to degree level, preferably in computer science / mathematics / statistics, or have equivalent work experience.
+
+
+
+Desirable:
+
+
+
+• Knowledge of other coding languages e.g. (R, Python).
+
+• Experience of Power Platform.
+
+• Knowledge of forecasting and descriptive statistical techniques.
+
+• Experience with DevOps and Git file repositories.
+
+• Experience in working in a high paced, fast changing role, while keeping a laser focus on the task at hand.
+
+• Some knowledge of the UK pension system and the pension reform agenda.
+
+• Data Protection Act/Freedom of Information principles.
+
+
+
+Person Specification
+
+
+
+• Proactive and flexible
+
+• Communication skills at all levels
+
+• Can do approach
+
+• Attention to detail and accuracy
+
+• Problem solving and analytical skills
+
+
+
+Salary and benefits
+
+
+
+As well as a salary between £35,598 and £37,575, we offer:
+
+
+
+• Civil Service Pension arrangements, which are recognised as some of the best in the pensions world.
+
+• discretionary bonus arrangements.
+
+• access to performance related pay progression.
+
+• 25 days annual leave provision.
+
+• flexible working arrangements.
+
+• development opportunities.
+
+• enhanced parental leave arrangements.
+
+• a free employee assistance programme.
+
+• an excellent office location in Brighton.
+
+
+
+How to apply
+
+
+
+To apply please email recruitmentteam@tpr.gov.uk quoting role reference number 208046 along with:
+
+
+
+• a covering letter with details of how your skills and experience meet the role requirements.
+
+• a copy of your CV.
+
+• details of your notice period.
+
+
+
+Current TPR employees in their first 12 months of employment who want to apply for this vacancy should first contact their line manager to discuss their application.
+
+
+
+We are an inclusive employer and offer equal opportunities regardless of an individual’s age, disability, gender identity, marriage or civil partnership status, pregnancy or maternity, race, religion or belief, sex, and sexual orientation.
+
+
+
+As a Disability Confident employer, we’re committed to the recruitment, employment, retention, and development of people with disabilities, and to improving their employment opportunities. Candidates who declare that they have a disability and who meet the essential criteria for the job will be offered an interview.
+
+
+
+Applications will be considered on a part time and job share basis.
+
+
+
+In accordance with Home Office guidance, the successful candidate will be required to provide their right to work in the UK before they start employment. Unfortunately, TPR is not able to offer sponsorship at the time. TPR is a UK-based organisation with a working location in Brighton, candidates must live in the UK to be employed by us.
+
+
+
+The Pensions Regulator is an arm’s length government body and part of the public service.
+
+Any offer of employment will be subject to the receipt of satisfactory background screening checks and criminal record checks (BPSS).
+
+
+
+Whilst it is our aim to respond to all applicants, if you have not heard from us within 21 days of the advert closing, please assume you have been unsuccessful on this occasion. Specific feedback will only be provided if you have attended an interview or assessment.
+
+
+
+If you have any queries about this role, or if you have a disability and wish to request a reasonable adjustment at any stage of the recruitment process, please email recruitmentteam@tpr.gov.uk
