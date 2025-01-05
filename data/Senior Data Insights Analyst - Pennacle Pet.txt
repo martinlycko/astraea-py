@@ -1,0 +1,34 @@
+https://www.linkedin.com/jobs/view/4102272780/?eBP=CwEAAAGUNg1rtCy-JObi2e-NSxaOUAKKJLLUPUxIK6hVwm_meFY6VtggJGb0AMqt1D2xcJTGCwodndl9K_BRsg6NTthQZjiN7TVt1W63e26orcW2xHXoL920tufXMHNb9-zACuQnXvnb7K00R6HnT7IyVMnBeJXYc3i9zrHo6SaPFl3aGpXVoIkPymXGUQ0MWm2IRiEe6rgNrghcE_hSzSAjJat1fQIKZlZxtnAdFI5-cxsFu_XDfu8xYLiyDHcFCi0LB0nYQ2JcH-WZ2RjZJUUTeuGh_tqKJStNqjCcYaQusxEruBub0usiLUDvcMT81_x3NqUPjN_aRNbDGujcjoRrJNrS0-pNd4yrDccnz_bcTFCldVosWdeCsyEzi6inm3c2rwPuiVeX9dAug3EVAUrj-EQAEm_cwJjXMYR8ALrF2IfR-1zAmHJILQlLg824L8flSLwCeTjccvzPSo1LZHh_CZ1zYKMJ-EUE9lmQGSMb&refId=msGkws0SgMyjJ5law2BfBA%3D%3D&trackingId=8LibMqbz5%2BRWYDrPwijKog%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Please apply if you can not only download data but have created dashboards to display and interpret data to others - this is vital.
+
+
+
+Understand the key metrics related to business performance, covering Pricing, Finance, Marketing and Operations.
+Help create automated monitoring of key metrics to ensure key stakeholders are made immediately aware of any adverse shifts within any business segments of interest.
+Understand the budget planning process and use this to drive the build of an outlier detection system and inform the selection of materiality thresholds for key metrics.
+Understand the interplay between different key metrics, and how shifts in one metric can produce shifts in others.
+Understand and monitor all events (internal and external) that may drive changes in key metrics. Use these to explain KPI trends to senior stakeholders.
+Develop fit-for-purpose Power BI dashboards to enable both senior stakeholders and key individuals within each business unit to understand and analyse key metrics at increasingly granular segmental levels.
+Develop Power BI dashboards that help to industrialise each reporting pack for each reporting cycle, eg: daily, weekly and monthly.
+Providing detailed analysis on performance against business plans and targets.
+To be able to communicate both verbally and in writing at all levels to understand the MI requirements of external clients and internal departments.
+To act to deliver good outcomes for retail customers whilst delivering a higher standard of customer care and enabling consumers to make effective decisions in their interests.
+Work closely with Data Warehouse Department, to understand changes and help develop reports to be efficient and accurate.
+Attend and contribute to working groups to improve KPI.
+Complete ad-hoc analysis and/or reporting.
+
+
+Successful Candidates Will Have
+
+Essential 
+
+Strong data analysis experience,
+Advanced technical skills including Power BI, DAX, Power Query,
+Excel and other MS Office applications.
+Advance SQL querying, ideally Microsoft (SQL Server) T-SQL.
+Meticulous attention to detail.
+The ability to communicate effectively, both written and orally.
+Team player who can work proactively and on their own initiative.
+Ability to work to deadlines and multi-task.
+Ability to prioritise own workload and effectively manage projects.
