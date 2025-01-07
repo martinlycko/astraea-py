@@ -12,9 +12,6 @@ class Document:
         self.text = text
         self.attributes = attributes
 
-    def __eq__(self, other):
-        pass
-
 
 class Documents:
 
