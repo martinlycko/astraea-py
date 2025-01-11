@@ -21,15 +21,28 @@ class ContentAnalysis:
     def addDocuments(self, documents):
         for entry in documents.entries:
             for line in entry.text:
-                for word in line.lower().split():
-                    self.addPhrase(word)
+                for word in self.cleanText(line).split():
+                    if len(word) <= self.settings.MaxWordLength:
+                        self.addPhrase(word)
+
+    def cleanText(self, text):
+        cleanedText = "".join(char for char in text if char.isalnum() or char == " ")
+        
+        if self.settings.CaseSensitive == False:
+            cleanedText = cleanedText.lower()
+        
+        return cleanedText
+
+    def getPhrases(self):
+        pass
 
 
 class ContentAnalysisSettings():
     
     def __init__(self):
         self.CaseSensitive = False
-        self.ExcludeOnImport = []
+        self.MaxWordLength = 32
+        self.ExcludeWordsOnImport = []
 
 class TestDocuments(unittest.TestCase):
     def test_sample1(self):
