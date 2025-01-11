@@ -5,10 +5,9 @@ import os
 # For testing
 import unittest
 
-# For imports to work
-import sys
-import library.scramble.documents as documents
-
+# Importing when main file is run
+if __name__ != '__main__':
+    import library.scramble.documents
 
 class ContentAnalysis:
 
@@ -90,4 +89,5 @@ class TestDocuments(unittest.TestCase):
         # self.assertEqual(wordcounter.entries['test1'], 6)
 
 if __name__ == '__main__':
+    import documents
     unittest.main()
