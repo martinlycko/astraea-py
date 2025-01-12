@@ -1,0 +1,85 @@
+https://www.linkedin.com/jobs/view/4116545355/?eBP=CwEAAAGUWh-dhMsDrpy_jvxr9Yc0m3F6KTsx3D5QKCYsw-nWGfR0QxpvTIBzHpGNCe7LC_Y_tN4W9qrYzi4McEFERfPJvEiEaS0ddYI8Sv_Ge_pKmpR035sHyw4dx-LD9GpetDvWokjxyt2k6pfmlqoqvJySzU2zkCCTtaOGEJ7baJ9nUD9eOAulN1DGDSVVCmCpg6QVTNjdv3RJUg48slw3UeM34z87nWvtMzmETLWceyvpUaWtTZKSWa5WOStnj2prfZJnMrl469rOs8HpcpoROlK7MkSHtZlidT7yHikQmD9_mNECgZOTstPi0h1ozPg3idKfslkXBwClF-kSw8vhNt5YL0YGl_H1Nt6PGm8vurlzrR4EWSFA-6RriSAA8PRR6MUKYdtkJ1NKI7doGyZW17KBW1EnChVYOQCpneP4DWEqqevvTJSychoZgpR-dvWMf8jSp40607L-vPDSxNPXf8vXtFNk6H8BHbUPWU8Odso&refId=7MmQHsqIIEYulaLoMR4fbA%3D%3D&trackingId=q0Ajw6o0eZHLcHqiFO5vDg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Data Scientist / Senior Data Scientist 
+
+Salary: from £40,000 (plus benefits, pension (7% contribution), 25 days holiday & life insurance)
+
+Location: London or South West Region
+
+
+
+We are looking for a Data Scientist consultant to join our growing Digital and Data Science division to be part of Sirius Digital. Sirius Digital provide a bespoke, robust and high-performance software to meet and exceed user requirements. We specialise in Software Engineering, Modelling & Simulation, Robotics & Autonomous Systems, Synthetic Environments, and AI & Machine Learning (ML). 
+
+
+
+Our team provides, adaptable and highly skilled capability, with a range of specialities to ensure that the right techniques are used to solve your problem.
+
+
+
+The Role:
+
+As a Data Scientist, you will play a major role in developing and implementing Machine Learning (ML) and Artificial Intelligence (AI) models, along with providing key advice around innovation and new techniques to stakeholders. You will be designing solutions for complex challenges and will integrate code with software engineers.
+
+
+
+Responsibilities will include: 
+
+Delivering technical consulting projects.
+Developing and delivering AI / ML solutions using a large range of techniques (e.g. ML, NLP, LLMs, Motion Capture, Image Recognition, OCR, …)
+Building new relationships and maintaining current customer relationships. 
+Applying mathematical and computational methods to tackle real world problems, applying tools and techniques, and developing novel approaches where required.
+
+
+Expertise Required:
+
+We are looking for a range of experience: 
+
+Data Scientist: 2+ years’ experience, including developing ML / AI projects.Senior Data Scientist: 5+ years’ experience, including productionising ML / AI projects.
+
+About You:
+
+The successful candidate must be able to demonstrate the following attributes: 
+
+
+
+Essential
+
+Ability to understand and describe a range of data science techniques.
+Experience in managing data and implementing data science processes. 
+Ability to apply knowledge in statistics and machine learning to real world problems.
+Experience in translating customer requirements into quantitative models.
+Experience in one or more of the following technical disciplines:
+Natural language Processing (NLP)
+ML (e.g. Random Forests, CatBoost, LXGM, …)
+Image Recognition
+Optical Character Recognition (OCR)
+Motion Capture
+Proficient in Python, R or C++, including relevant libraries (numpy, pandas, matplotlib, Scikit-learm, tensorflow, etc…).
+Proficient in a range of database protocols (e.g. SQL, noSQL).
+Develop testing routines or procedures.
+Building customer and stakeholder relationships.
+Supporting and leading authoring of technical reports and presenting to customers. 
+Be willing to travel across UK and comfortable to work away from home for periods of time.
+
+
+Desirable:
+
+The ideal candidate will be educated to degree level or have equivalent relevant experience.
+
+Experience with Docker and/or Kubernetes (K8S)
+
+Experience with Computer Vision (CV)
+
+Experience with air-gapped systems
+
+We’d love you to bring a strong STEM / computing background.
+
+
+
+What we offer
+
+We offer a combination of mentoring and internal and external training opportunities, with specialist sector organisations and in-house courses. You will have exposure to subject matter experts and additional online learning packages.
+
+
+
+The role comes with a competitive benefits package including pension (7% company contribution), additional holiday purchase options, private health care, life assurance and electric vehicle scheme

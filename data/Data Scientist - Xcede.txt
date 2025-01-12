@@ -1,0 +1,44 @@
+https://www.linkedin.com/jobs/view/4119226745/?eBP=CwEAAAGUWiTaahDsv7nKSmKmunTwMX9-z6FExmMpgr5STQ9ytkzRPxS1krrtN6awU3chiRt_zj290-rKpGXIJ1ulj2STbs1kHBy4CG4nEwewU4Gc_DaBZVBqHrWcMqismAPglPE5XVYWgkrEq30OQ4MoCUEd9G3UY_-iQ9YfgYlVG9IJ152z2b9UaugDTpswwYnADduXSEodVlIT7Uc6SsOjYbAyhnvmIOVu49_o9tmdnKusUmZlp4uJ76ZhQwm7xVnjoDtsG2DEb1_KMXvXG_v8DX9wdSrM_GklMJql4P553D0C-1GiiCM__Ixro8WaQWrMYYlJghqmsofntlCEdpbkg9VzPZMENQxpeo5pKx5tdjBry6QnMhQR4w361_4xGBJMjPSxMDickEmoVZvJnrBtThwLovMuJy2w0Qp-cMyueIMwEBv6nSw2DkZqTpoHDseUmnoQvsyi_HsYVjx7cgoXR5BYYtk2sxNtmXvRhWRk&refId=NfS1X0yIT5sn4RJSYRL74w%3D%3D&trackingId=v6Al9%2FHKRldhhr3tHlACyA%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Data Scientist
+
+X2 days a month in office (Surrey)
+
+
+
+Xcede are delighted to be working with an incredibly data-rich organisation with over 3 million customers in the UK using their products. The company have a very established Data division headed up by well-regarded CDO who comes from a ‘hands on’ Data Science background. The Data Unit is filled with experienced Data Scientists, Analyst, Machine Learning Engineers, LLM specialists, and Data Engineers.
+
+
+
+We’re now actively recruiting for another Data Scientist with an 'Analytics' leaning / background to join their team. Alongside building Machine learning models and other typical data science tasks, this scientist will ideally be experienced in using tools like Tableau and working on A/B testing at scale.
+
+
+
+Given the quality of the team involved, instant exposure to more technical projects and colleagues, and the excellent working environment that this company provides, I would highly suggest that you get in touch to find out more if you're curious. This one won't be around for too long!
+
+
+
+Responsibilities
+
+
+
+Work with senior colleagues and internal stakeholders to spot business opportunities to leverage data science techniques and add business value.
+Build relevant statistical / machine learning models related to said projects.
+Contribute to the AB testing framework for this huge organisation from day one.
+Communicate findings effectively to stakeholders to encourage adoption.
+Find brilliant new ways of tackling their problems - innovation will be a key part of the job.
+
+
+Requirements
+
+
+
+A relatable STEM / Computer Science degree (ideally MSc and above but all backgrounds considered).
+Excellent Python & SQL skills.
+Commercial A/B testing experience (particularly useful if directly related to Marketing campaigns)
+Strong Machine Learning & Statistical knowledge
+Tableau experience (or indeed relevant other data visualisation skills) 
+Spark and/or Databricks experience would be a lovely bonus.
+
+
+If this role interests you and you would like to learn more, please apply here or contact us via niall.wharton@Xcede.com (feel free to include a CV for review).

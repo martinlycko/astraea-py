@@ -1,0 +1,67 @@
+https://www.linkedin.com/jobs/view/4106723368/?eBP=CwEAAAGUWiTaalyNtpbvXY6zQOaubdROct8NWUYPjV_BUoseFCNP9DW-Sa4VJpzxWFHwTP61Nhv5pnuLlyXDdzbC6LG698Ywj2gRpkV3sVfgEndTKyYkaH72_yIYg1UNi8TnGjsM7W7M4_SRJ5OQOggANefE1z_Qguxz_wkSL2m07FZFkgh_3k4tUGfHvPRB69P_Eoh4eDgBFM6uhBwxuNYGXLjK1SEzTv0jwtAUXHzWMOsRwxHCGBWVZL460PCHJrF0StygGqvg678JQOVGAHjwNvS-bTLOmREKtqhaL9khd454yC5CzJpxkrW7q8OVe4JLAI6HMXxz1FSpT_XKt16UCg7Nw5iYwE3LK6BFxDqmk3W_42Gsx0zdTpykrBRUG2zjvPYX429Em9Yz00U_W9bmIlfiK7eL1AcpQLQY22pyx7ST5A&refId=NfS1X0yIT5sn4RJSYRL74w%3D%3D&trackingId=EnN0g1wxj39R6%2Fn%2BX9hhfg%3D%3D&trk=flagship3_jobs_discovery_jymbii
+
+Salary: £40,000 to £55,000 depending on experience
+
+Location: Remote-first (Must be UK based)
+
+Status: We're actively recruiting for this role
+
+
+
+About the role
+
+We’re looking for an experienced Data & Insights Analyst with extensive SQL knowledge and a passion for digital analytics.
+
+Working as part of a multi-disciplinary team, you'll tackle diverse challenges, analysing data from multiple sources to uncover insights that drive marketing effectiveness, enhance customer experiences, and improve business outcomes.
+
+You will be responsible for the full lifecycle of analysis, including:
+
+Collaborating with internal teams and client stakeholders to gather and clarify requirements
+Preparing and combining data sources and applying the latest analytical techniques to create solutions
+Designing intuitive dashboards and delivering compelling presentations that drive decisions and action
+You'll thrive in this role if you're a confident communicator who can translate complex data into clear insights. Your strong scientific and statistical approach will be applied to a wide range of data sets, while your collaborative nature will make you invaluable to both our team and client partnerships.
+
+
+
+Responsibilities
+
+Ensure consistency in the delivery of analysis – while identifying opportunities to enhance insights.
+Prepare and deliver regular analysis and reporting, including user behaviour, campaign performance, product analysis, attribution modelling, and competitor analysis.
+Collaborate closely with stakeholders and team members to identify requirements and deliver tailored analytics solutions.
+Maintain integrity in data reporting and interpretation
+Evolve and adapt processes within the major client teams, learning from other members of the team and working together to streamline processes within the different workstreams.
+Work closely with the implementation team to ensure the integrity of analytics data (e.g. implementation of measurement frameworks, data collection and reporting configurations).
+
+
+Perks of the job
+
+25 days a year holiday as standard plus Bank Holidays
+Additional paid time off for our Christmas closure (usually 3 days)
+Plus, an extra day off for your birthday!
+Holiday buy-back scheme (up to 10 extra days).
+Three charity days a year - to give back to a cause or initiative close to your heart.
+Private healthcare, mental and financial wellness schemes.
+The opportunity to earn an additional, certification-based bonus of up to £4k a year.
+Super flexible working - tell us what you need, and we’ll do the same!
+Plenty of socials, hackathons and opportunities to hang out with colleagues, if that’s your thing, both remote and IRL.
+Being part of a fantastic team, doing great work and having a bit of fun along the way.
+
+
+Must-Have Skills 
+
+Experience with SQL, ideally on cloud-based platforms (e.g. BigQuery) with the ability to model data for advanced analysis.
+Ability to join various data sources (in BigQuery, Sheets, Looker Studio etc.) to enable cross-functional reporting and analysis.
+Ability to translate data into clear and concise reporting and manage the process end-to-end.
+Passion for data and the confidence to communicate its technical implications effectively.
+Desire to learn and take on projects that may require new processes or approaches.
+Experience with one or more BI tools (Looker Studio, Tableau, Power BI etc).
+Previous experience as a Digital or Marketing analyst or understanding of web data (Google Analytics experience would be a big plus!).
+
+
+Nice-To-Have Skills
+
+Experience in product analytics and experimentation.
+Knowledge of Python.
+Familiarity with advanced analysis techniques, including statistical methods and ML/AI.
+Understanding of the wider Google Cloud toolset and capabilities.
+Experience with Google Dataform or/and dbt.
