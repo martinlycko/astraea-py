@@ -1,3 +1,9 @@
+# ToDos
+# Need better testing for the different settings
+# Need to seperate test cases into each test document
+# Need a function that returns result in an asc/dec ordered
+# Need a function that returns a count given a key catching the error if key not present
+
 # To import files from directories
 from pathlib import Path
 import os
@@ -21,9 +27,8 @@ class ContentAnalysis:
     def addDocuments(self, documents):
         for entry in documents.entries:
             for line in entry.text:
-                for word in self.cleanText(line).split():
-                    if len(word) <= self.settings.MaxWordLength:
-                        self.addPhrase(word)
+                for phrase in self.getPhrases(self.cleanText(line)):
+                        self.addPhrase(phrase)
 
     def cleanText(self, text):
         cleanedText = "".join(char for char in text if char.isalnum() or char == " ")
@@ -33,16 +38,37 @@ class ContentAnalysis:
         
         return cleanedText
 
-    def getPhrases(self):
-        pass
+    def getPhrases(self, text):
+        phrases = []
 
+        last_words = []
+        for word in text.split():
+            if len(word) <= self.settings.MaxWordLength:
+                if self.settings.MaxWordsInPhrase == len(last_words):
+                    last_words.pop(0)
+                last_words.append(word)
+                
+                if self.settings.MaxWordsInPhrase == 1:
+                    phrases.append(last_words[0])
+                else: 
+                    i = 0
+                    while i < len(last_words):
+                        if i == 0:
+                            phrases.append(last_words[len(last_words)-1])
+                        else:
+                            phrases.append(" ".join(last_words[len(last_words)-i-1:len(last_words)+1]))
+                        i = i + 1
+
+        return phrases
 
 class ContentAnalysisSettings():
     
     def __init__(self):
         self.CaseSensitive = False
         self.MaxWordLength = 32
+        self.MaxWordsInPhrase = 2
         self.ExcludeWordsOnImport = []
+
 
 class TestDocuments(unittest.TestCase):
     def test_sample1(self):
