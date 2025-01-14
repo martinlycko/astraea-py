@@ -13,7 +13,10 @@ if __name__ == "__main__":
         files.addFromDirectory(dirname)
 
         wordcounter = ContentAnalysis()
+        wordcounter.settings.IncludeChars.append("+")
         wordcounter.addDocuments(files)
 
-        for key, value in wordcounter.entries.items():
-            print(key + ": " + str(value))
+        wordcounter.orderedListItems()
+
+        #for key, value in wordcounter.entries.items():
+#            print(key + ": " + str(value))
