@@ -61,11 +61,16 @@ class ContentAnalysis:
 
         return phrases
 
-    def orderedListItems(self):
-        results = []
-        for key, value in sorted(self.entries.items(), key=lambda x: x[1]): 
-            print("{} : {}".format(key, value))
-
+    def printOrdered(self, by = "Count", reverse=True):
+        if by == "Count":
+            for key, value in sorted(self.entries.items(), key=lambda phrase: phrase[1], reverse=reverse): 
+                print("{}: {}".format(key, value))
+        else:
+            if by == "Items":
+                for key, value in sorted(self.entries.items(), key=lambda phrase: phrase[0], reverse=reverse): 
+                    print("{}: {}".format(key, value))
+            else:
+                print("Incosistent print")
 
 class ContentAnalysisSettings():
     

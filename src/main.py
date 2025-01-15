@@ -16,7 +16,4 @@ if __name__ == "__main__":
         wordcounter.settings.IncludeChars.append("+")
         wordcounter.addDocuments(files)
 
-        wordcounter.orderedListItems()
-
-        #for key, value in wordcounter.entries.items():
-#            print(key + ": " + str(value))
+        wordcounter.printOrdered()
