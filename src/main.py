@@ -14,6 +14,13 @@ if __name__ == "__main__":
 
         wordcounter = ContentAnalysis()
         wordcounter.settings.IncludeChars.append("+")
+        wordcounter.settings.IncludeChars.append("-")
+        wordcounter.settings.IncludeChars.append(" - ")
+        wordcounter.settings.MaxWordsInPhrase = 5
         wordcounter.addDocuments(files)
 
         wordcounter.printOrdered()
+
+        THIS_FOLDER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        Result_Location = os.path.join(THIS_FOLDER, 'outputs/')
+        wordcounter.saveToFile(Result_Location, 'results.txt')

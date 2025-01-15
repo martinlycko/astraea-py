@@ -1,12 +1,12 @@
 # ToDos
 # Need better testing for the different settings
 # Need to seperate test cases into each test document
-# Need a function that returns result in an asc/dec ordered
 # Need a function that returns a count given a key catching the error if key not present
 
 # To import files from directories
 from pathlib import Path
 import os
+import json
 
 # For testing
 import unittest
@@ -71,6 +71,12 @@ class ContentAnalysis:
                     print("{}: {}".format(key, value))
             else:
                 print("Incosistent print")
+
+    def saveToFile(self, path, filename):
+        file = open(path+filename, "w")
+        for k, v in sorted(self.entries.items(), key=lambda phrase: phrase[1], reverse=True):
+            file.write(str(k) + ': '+ str(v) + '\n')
+        file.close()
 
 class ContentAnalysisSettings():
     
