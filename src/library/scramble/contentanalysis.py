@@ -2,6 +2,7 @@
 # Need better testing for the different settings
 # Need to seperate test cases into each test document
 # Need a function that returns a count given a key catching the error if key not present
+# Update save to file functionality
 
 # To import files from directories
 from pathlib import Path
@@ -61,7 +62,13 @@ class ContentAnalysis:
 
         return phrases
 
-    def printOrdered(self, by = "Count", reverse=True):
+    def getCount(self, phrase):
+        if self.settings.CaseSensitive == False:
+            self.entries['lorem']
+        else:
+            pass # Add functioanlity for case sensitive
+    
+    def printOrdered(self, by="Count", reverse=True):
         if by == "Count":
             for key, value in sorted(self.entries.items(), key=lambda phrase: phrase[1], reverse=reverse): 
                 print("{}: {}".format(key, value))
