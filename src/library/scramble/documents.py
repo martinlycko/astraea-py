@@ -3,6 +3,7 @@
 # To import files from directories
 from pathlib import Path
 import os
+import csv
 
 # For testing
 import unittest
@@ -20,14 +21,20 @@ class Documents:
     def __init__(self):
         self.entries = []
 
-    def addFromDirectory(self, path):
+    def addtextfilesFromDirectory(self, path):
         files = Path(path).glob('*')
         for file in files:
-            self.addFromFile(file)
+            self.addFromTextFile(file)
 
-    def addFromFile(self, filepath):
+    def addFromTextFile(self, filepath):
         with open(filepath, 'r') as file:
             self.entries.append(Document(file.readlines(), None))
+
+    def addFromCSVFile(self, filepath, textcolumn):
+        with open(filepath, 'r') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                self.entries.append(Document(row[textcolumn], None))
 
 
 class TestDocuments(unittest.TestCase):

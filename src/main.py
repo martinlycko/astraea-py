@@ -8,14 +8,12 @@ from library.scramble.documents import *
 from library.scramble.contentanalysis import *
 
 if __name__ == "__main__":
-        dirname = os.path.abspath(os.path.join(os.path.dirname(__file__), '../data'))
+        filename = os.path.abspath(os.path.join(os.path.dirname(__file__), '../data/externaldata-csvs/job_skills.csv'))
         files = Documents()
-        files.addFromDirectory(dirname)
+        files.addFromCSVFile(filename, "job_skills")
 
         wordcounter = ContentAnalysis()
         wordcounter.settings.IncludeChars.append("+")
-        wordcounter.settings.IncludeChars.append("-")
-        wordcounter.settings.IncludeChars.append(" - ")
         wordcounter.settings.MaxWordsInPhrase = 5
         wordcounter.addDocuments(files)
 

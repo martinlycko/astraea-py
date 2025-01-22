@@ -27,8 +27,12 @@ class ContentAnalysis:
 
     def addDocuments(self, documents):
         for entry in documents.entries:
-            for line in entry.text:
-                for phrase in self.getPhrases(self.cleanText(line)):
+            if isinstance(entry.text, list):
+                for line in entry.text:
+                    for phrase in self.getPhrases(self.cleanText(line)):
+                        self.addPhrase(phrase)
+            else:
+                for phrase in self.getPhrases(self.cleanText(entry.text)):
                         self.addPhrase(phrase)
 
     def cleanText(self, text):
@@ -118,7 +122,7 @@ class TestDocuments(unittest.TestCase):
         filename = os.path.join(dirname, 'testdata', 'test-data1.txt')
 
         files = documents.Documents()
-        files.addFromFile(filename)
+        files.addFromTextFile(filename)
 
         wordcounter = ContentAnalysis()
         wordcounter.addDocuments(files)
@@ -132,7 +136,7 @@ class TestDocuments(unittest.TestCase):
         filename = os.path.join(dirname, 'testdata', 'test-data2.txt')
 
         files = documents.Documents()
-        files.addFromFile(filename)
+        files.addFromTextFile(filename)
 
         wordcounter = ContentAnalysis()
         wordcounter.addDocuments(files)
@@ -146,7 +150,7 @@ class TestDocuments(unittest.TestCase):
         filename = os.path.join(dirname, 'testdata', 'test-data3.txt')
 
         files = documents.Documents()
-        files.addFromFile(filename)
+        files.addFromTextFile(filename)
 
         wordcounter = ContentAnalysis()
         wordcounter.addDocuments(files)
@@ -160,7 +164,7 @@ class TestDocuments(unittest.TestCase):
         filename = os.path.join(dirname, 'testdata', 'test-data4.txt')
 
         files = documents.Documents()
-        files.addFromFile(filename)
+        files.addFromTextFile(filename)
 
         wordcounter = ContentAnalysis()
         wordcounter.addDocuments(files)
