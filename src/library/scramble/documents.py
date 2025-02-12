@@ -11,7 +11,8 @@ import unittest
 
 class Document:
     
-    def __init__(self, text, attributes):
+    def __init__(self, name, text, attributes):
+        self.name = name
         self.text = text
         self.attributes = attributes
 
