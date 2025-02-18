@@ -1,0 +1,95 @@
+https://www.linkedin.com/jobs/view/4086257871/
+
+
+🚀 We’re on a mission to make money work for everyone.
+
+We’re waving goodbye to the complicated and confusing ways of traditional banking.
+
+With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!
+
+We’re not about selling products - we want to solve problems and change lives through Monzo ❤️
+
+Hear from our team about what it's like working at Monzo ✨
+
+📍London or Remote (UK) | 💰 £70,000 to £100,000 + Stock Options + Benefits | Hear from the team
+
+About Us
+
+At Monzo we want to make money work for everyone. We care deeply about our 10 million customers. Through magically simple products and actionable insights, we put our customers in control of their finance. Our products are different by design, and reliable at our core.
+
+Our range of borrowing products are critical to Monzo’s mission. Not only do they serve important needs of our customers, they are also a key revenue driver to support Monzo keep delivering great products and experience. We have seen stellar growth and deep engagement with millions of borrowers, supported by effective and efficient credit risk management. Our product portfolios are still expanding, from personal to business credit, and markets beyond UK. We are looking for bright, passionate and creative individuals to further accelerate our growth.
+
+About The Role
+
+The mission of Borrowing Decision Scientists is to improve the customer and business outcomes through better automated decisioning, using Machine Learning and Statistical modelling. We have a primary focus in credit risk modelling, with our expertise also applied to predict and optimise utilisation, pricing, collection and marketing.
+
+You will be working alongside a small team of very experienced Decision Scientists, with well established toolings for the fully lifecycle of ML models. Each of you owns multiple ML applications end-to-end, from experiment design and data curation, to deployment and monitoring. You will be empowered to innovate in the data, methodologies and toolings, so we can build better models easier and faster.
+
+You will have exposure to all Borrowing products and applications, with autonomy to decide what are the most impactful topics to work on, and how to deliver them. You will work closely with our Credit Strategy Analysts, Model Validation Analysts, Backend Engineers, and Product Managers, to fit your model development into the product roadmap. You are also empowered to think big about the business, market and customers, to influence our product and credit strategy beyond just the world of models.
+
+Our technology stack
+
+We Rely Heavily On The Following Tools And Technologies (although We Do Not Expect Applicants To Have Prior Experience Of All Them) 
+
+Google Cloud Platform for all of our analytics usages
+BigQuery SQL and dbt for our data modelling and warehousing
+PyData stack for model development and offline deployment
+Google AI platform for cloud computing
+AWS for backend infrastructure
+Python for ML model microservices
+Go lang for most other microservices
+You Should Apply If
+
+You are result oriented and motivated by the impact on our customers and business
+You enjoy a high degree of autonomy and thrive in a fast-paced environment
+You are keen to grow your knowledge in both business and technology
+
+You Must Have
+
+Excellent SQL and Python skills with good understanding of best practices in software engineering and data engineering
+In-depth knowledge of statistical and machine learning models: gradient boosted trees, logistic regression, neural networks, survival analysis, etc
+Solid knowledge of statistics: hypothesis testing, confidence intervals, bootstrap
+Experience of end-to-end model development and maintenance of ML models used for business critical decisions, ideally in a regulated industry
+Great attention to details while keeping an eye on the big picture
+Excellent communication skills to articulate complex problems
+Capability to build mutual respect and trust with people of different background
+
+The Interview Process
+
+Our interview process involves 3 main stages: 
+
+Recruiter Call
+Take Home Task
+3x (virtual) face-to-face stages
+Technical interview
+Case study
+Value & collaboration
+Our average process takes around 3-4 weeks but we will always work around your availability. You will have the chance to speak to our recruitment team at various points during your process but if you do have any specific questions ahead of this please contact us on tech-hiring@monzo.com
+
+One of our team has written a detailed blog on their experience through this process, for extra details, hints and tips please see here.
+
+What’s In It For You
+
+💰 £70,000 to £100,000 ➕ plus stock options & benefits
+
+✈️ We can help you relocate to the UK
+
+✅ We can sponsor visas
+
+📍This role can be either based in our London office with hybrid working pattern, or fully remote within UK with occasional travels to London.
+
+🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.
+
+⏰ We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.
+
+📚 Learning budget of £1,000 a year for books, training courses and conferences
+
+➕ And much more, see our full list of benefits here
+
+Equal opportunities for everyone
+
+Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2023 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.
+
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.
+
+If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊

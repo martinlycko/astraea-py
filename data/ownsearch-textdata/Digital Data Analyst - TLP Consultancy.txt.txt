@@ -1,0 +1,60 @@
+https://www.linkedin.com/jobs/view/4148753203/
+
+£40.000 - £43.500
+Permanent
+Near Epsom, Surrey (location is most easily reached by own transport)
+Hybrid working (3 days a week in the office)
+Generous benefits package (Performance related bonus, Pension, access to their car scheme, Birthday voucher, Cycle Scheme, holiday purchase scheme, discounted onsite gym membership, subsidised Café and Canteen, 25 days holiday + all bank holidays)
+
+
+TLP have been working with Toyota (GB) PLC for over 25 years and are a trusted partner. This role will be employed by TLP (secondment to Toyota (GB) PLC)
+
+
+
+We have an exciting opportunity within the Performance and Optimization team, responsible for the data analysis, design and the development of digital platform reporting solutions within Customer Engagement and Marketing teams. The data will help the business by collecting, visualizing, analyzing and interpreting website and marketing data to inform key business decision from marketing investment, website improvement opportunities and platform development.
+
+This role will shape and implement new processes that provide insights to improve the digital experience and influencing business teams and commercial decisions at all levels.
+
+
+
+What you’ll be doing: 
+
+
+
+Design & build reports and dashboards using Power BI
+Performing data analysis and profiling of key sources to evaluate quality and integrity
+Performing ad hoc / exploratory analysis of data sets to find insights, patterns or trends
+Collaborating with Data Engineering teams to define and test data sets / models for digital analytics
+Working with agency partners to manage the production and maintenance of performance dashboards delivered in other platforms (e.g. Adobe Analytics, Google Looker Studio)
+Maintaining consistency and quality in digital data by ensuring correct tagging and tracking of key platforms in collaboration with agency partners (GA4, GTM, Adobe Analytics)
+Leading the adoption and understanding of reports and data models across wider business teams
+Defining and documenting metrics and KPIs, working with internal teams to ensure new products and content is accurately tagged and KPIs are defined
+Collaborating with colleagues and business stakeholders to gather, analyse and document digital reporting and analytics requirements
+Monitoring and analysis of production issues, collaborating with wider teams in effective resolution
+Manage the design, development and maintenance of performance dashboards across several analytics tools, including Adobe Analytics, Power BI and Google Looker Studio. To enable better self-service across the Marketing Communications Team
+Identify the most effective techniques, data sets and tools to execute functional and non-functional test cases.
+Use advanced SQL to extract, clean and manipulate large datasets from various sources.
+Collaborate with data engineering teams to define data sets and models to support digital analytics
+Maintain digital data quality excellence working with.
+Toyota Europe and local agency teams to ensure tagging and technical requirements are implemented correctly across our analytics tools including GA4/Adobe Analytics/GTM
+Ensure digital tagging and tracking procedures are communicated and followed within all marketing activity to enable accurate reporting and analytics.
+Provide basic training and guidance to encourage wider stakeholders to use analytics tools and reports to self-serve data for their needs and foster a culture of data driven decision making across the business
+
+
+Qualifications and Experience
+
+
+
+Essential 
+
+3+ years of experience in Digital marketing data analytics and delivery or equivalent experience
+Experience using following Tech stacks - Power BI, SQL, Python, Azure, Snowflake, and Google Analytics
+Excellent communications skills, creative problem solver, critical thinking capabilities
+Strong organisational and time management skills
+
+
+Desirable 
+
+Automotive industry experience
+Bachelor’s degree, level 4+ apprenticeship (or equivalent) in Data Analytics or a similar discipline.
+Relevant Microsoft & Azure certifications (e.g. Power BI Data Analyst Associate

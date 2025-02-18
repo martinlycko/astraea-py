@@ -1,0 +1,76 @@
+https://www.linkedin.com/jobs/view/4142827610/
+
+
+🚀 We’re on a mission to make money work for everyone.
+
+We’re waving goodbye to the complicated and confusing ways of traditional banking.
+
+With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!
+
+We’re not about selling products - we want to solve problems and change lives through Monzo ❤️
+
+Hear from our team about what it's like working at Monzo ✨
+
+📍London/Cardiff/UK Remote | 💰 £115-130,000 + stock and Benefits | Hear from the team ✨
+
+⭐ Our Operations Machine Learning Team
+
+The challenges are significant: we aim to transform customer service by reducing the time and effort required to resolve issues, enhancing customer confidence and satisfaction. As part of Operations you’ll be at the forefront of our mission to provide unparalleled customer support experiences. Your role will be pivotal in leveraging state of the art machine learning techniques including LLMs to understand customer problems, to develop an effective human-in-the loop system that augments automation with the efforts of support workforce (who we call COps) to more expediently and efficiently predict, identify, disambiguate and route customer problems at scale to support a rapidly expanding company with global ambitions across multiple geographies.
+
+You’ll lead a growing team of 5 ML engineers in Operations, embedded in product squads working alongside data scientists, backend, mobile and web engineers, product managers, user researchers, designers and operations specialists..
+
+🔑You’ll play a key role by...
+
+You will head up machine learning for the whole Operations domain at Monzo, helping us to build up the vision, strategy, and team of machine learning experts for this area.
+You’ll work across interdisciplinary squads, with Product Managers, Engineers and other Data colleagues (Data Analysts, Data Scientists, Analytics Engineers) to ensure we’re pursuing the most impactful machine learning opportunities, and tackling them with pragmatic, iterative, and high-quality systems.
+You will lead the design, build and delivery of machine learning systems, working at the intersection of Data, Product, and Engineering, and ensuring that all systems we build are safe and appropriately validated. 
+You will support, coach, and develop high performing Machine Learning Scientists through regular 1:1s, continuous feedback and fostering relationships with other leaders at Monzo.
+You will contribute to best practices: helping us become an exceptional place to work for ambitious, highly motivated people.
+You’ll play a key role in scaling the impact of machine learning across Monzo: empowering Machine Learning Scientists to work across the end-to-end lifecycle of their models, including shipping the models they train into production, and contributing to how we define and build our workflows and tooling as we scale our discipline.
+
+You should apply if
+
+You have experience managing teams of 4 or more high-performing Machine Learning professionals and owning Machine Learning systems in production.
+You understand how ML systems work, how they should be designed based on the business problem they solve, and can communicate this to technical and non-technical people.
+You have experience collaborating with senior business stakeholders and product teams to implement ML systems.
+You know what makes a high-performing team and know how to get there. You care deeply about helping others achieve their goals and become the best Machine Learning Scientists they can be.
+You have an empathetic leadership style, and you build strong, effective relationships.
+You thrive working on ambiguous problems.
+You want to be involved in building a product that you and the people you know use every day, with a product mindset that prioritises customer outcomes and data-informed decisions.
+You’re adaptable, curious and enjoy learning new technologies and ideas.
+
+🙌What’s in it for you
+
+💰115-130,000 ➕share options
+
+✈️ We’ll help you relocate to the UK
+
+✅ We can sponsor your visa
+
+📍This role can be based in our London or Cardiff offices, but we're open to distributed working within the UK (with ad hoc meetings in London)
+
+⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.
+
+📚£1,000 learning budget each year to use on books, training courses and conferences.
+
+🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.
+
+➕ Plus lots more! Read our full list of benefits.
+
+🌈 The Application Journey Has 3 Key Steps
+
+Recruiter Call
+Initial Call
+Final Stage
+
+Our average process takes around 2-3 weeks but we will always work around your availability. You will have the chance to speak to our recruitment team at various points during your process but if you do have any specific questions ahead of this please contact us on tech-hiring@monzo.com.Please also use that email to let us know if there's anything we can do to make your application process easier for you, because of disability, neurodiversity or any other personal reason.
+
+You’ll hear from us throughout the application process, but if you’ve got any questions, please reach out to tech-hiring@monzo.com. You can also use this email address to let us know if there’s anything we can do to make the process easier for you because of disability, neurodiversity or anything else.
+
+Equal opportunities for everyone
+
+Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2023 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.
+
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.
+
+If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊

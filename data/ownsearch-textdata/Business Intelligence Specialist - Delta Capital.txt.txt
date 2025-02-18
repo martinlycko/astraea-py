@@ -1,0 +1,94 @@
+https://www.linkedin.com/jobs/view/4140126862/
+
+
+Job description
+
+We are seeking a highly skilled and analytical Business Intelligence (BI) Specialist to join our Data, Technology, Automation and testing (DTAT) team. The successful candidate will be responsible for designing, developing, and maintaining business intelligence solutions that empower our clients to make data-driven decisions. This role requires a deep understanding of data visualisation, reporting, and analytics, along with proficiency in various BI tools and data management practices.
+
+
+
+Key Responsibilities:
+
+BI Solution Development:
+
+Design and develop interactive dashboards, reports, and data visualisations using BI tools such as Power BI (preferred), Tableau, or Qlik.
+Collaborate with stakeholders to gather requirements and translate them into effective BI solutions.
+Optimise BI solutions for performance, usability, and scalability.
+Implement and manage security protocols to ensure data integrity and confidentiality.
+Data Analysis and Reporting:
+
+Conduct detailed data analysis to identify trends, patterns, and insights.
+Develop and maintain comprehensive reports and analytics to support business operations and strategic initiatives.
+Utilise statistical methods and data mining techniques to interpret complex data sets.
+Provide actionable insights and recommendations based on data analysis.
+Data Management:
+
+Work with data integration and ETL processes to consolidate data from various sources.
+Ensure data quality, consistency, and reliability across BI solutions.
+Develop and maintain data models, schemas, and documentation.
+Collaborate with data engineers and IT teams to ensure seamless data flow and integration.
+Collaboration and Support:
+
+Work closely with cross-functional teams, including business analysts, data scientists, and IT professionals, to deliver comprehensive data solutions.
+Provide technical support and troubleshooting for BI tools and data-related issues.
+Stay current with industry trends, best practices, and emerging technologies in BI and data analytics.
+
+
+
+
+Job requirements
+
+
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Information Technology, Data Science, Business Analytics, or a related field.
+Experience as a BI Specialist, Data Analyst, or similar role.
+Proficiency in BI tools such as Power BI, Tableau, Qlik, or similar.
+Strong knowledge of SQL and experience with relational databases (e.g., SQL Server, MySQL, PostgreSQL).
+Experience with data integration and ETL tools (e.g., SSIS, Talend, Informatica).
+Excellent analytical and problem-solving skills.
+Strong communication and collaboration skills, with the ability to work effectively in a team-oriented environment.
+
+
+Preferred Skills:
+
+Experience with programming languages such as Python or R for data analysis.
+Knowledge of big data technologies (e.g., Hadoop, Spark) and data warehousing concepts.
+Familiarity with cloud data platforms (e.g., Azure, AWS, Google Cloud) is a plus.
+Certification in BI tools, SQL, or related technologies.
+Experience with Agile development methodologies and DevOps practices.
+
+
+How We Work:
+
+Delta Capita is an equal opportunity employer. We positively encourage applications from suitably qualified and eligible candidates regardless of age, colour, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information, or any other status protected by applicable law.
+
+
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. If you require any reasonable adjustments through your interview process, please use the designated space within the application questionnaire.
+
+
+
+This is a permanent full-time position located in London. As the selection and interview process is ongoing, please submit your application in English as soon as possible, if your profile is selected, a member of our team will contact you within 4 weeks. For this role a valid working permit for the UK is mandatory.
+
+
+
+Expectations regarding hybrid working: As we are a Service Provider and Consulting firm servicing clients, our policy for physically working from the office (which may be the client’s offices or our own offices depending on the client) aligns to what our client’s policies and expectations are and these vary. Most of our client’s now require a minimum of 3 days per week in the office, 2 days from home, and accordingly this is also the minimum expectation that Delta Capita require.
+
+
+
+Who We Are:
+
+Delta Capita Group is a global managed services, consulting and solutions provider with a unique combination of experience in Financial Services and technology innovation capability. Our mission is to reinvent the financial services value chain providing technology based mutualized services for financial institutions for non differentiating services.
+
+
+
+Our 3 offerings are:
+
+Managed Services
+Consulting & Solutions
+Technology
+
+
+To know more about Delta Capita and our culture click here: Working at DC - Delta Capita.

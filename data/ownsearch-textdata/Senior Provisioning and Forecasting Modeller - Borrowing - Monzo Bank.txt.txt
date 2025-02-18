@@ -1,0 +1,84 @@
+https://www.linkedin.com/jobs/view/4074851615/
+
+
+🚀 We’re on a mission to make money work for everyone.
+
+We’re waving goodbye to the complicated and confusing ways of traditional banking.
+
+With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!
+
+We’re not about selling products - we want to solve problems and change lives through Monzo ❤️
+
+Hear from our team about what it's like working at Monzo ✨
+
+📍Cardiff, London or Remote (UK) | 💰 £55,000 - £95,000 + Benefits | Technology - Credit & Data ✨
+
+⭐Monzo’s Borrowing Credit & Data team
+
+Our Borrowing Credit & Data team is the largest and most diverse team within Monzo’s Data Discipline, and is also one of the largest parts of the Borrowing Collective.
+
+This team sits at the core of our lending business. We design products, decide who to lend to, set underwriting policy, track the volume of new originations, identify customers who need help, manage the portfolio, measure risk and compute the core metrics required both for Monzo’s senior management and for our external financial reporting. We set prices, build predictive models, run experiments, build dashboards, enhance data pipelines and manage Monzo’s credit risk.
+
+Our Data team's mission is to Enable Monzo to Make Better Decisions, Faster
+
+We are scaling up our Capital, Impairment and Forecasting modelling team to support the rapid growth and evolution of our portfolio. This role is pivotal for the team as the successful candidate will develop and further enhance our suite of IFRS 9 models (PD, LGD, EAD, macroeconomic models) across both well established and emerging products. Additionally the successful individual will have oversight of model performance, construction of PMAs/model overlays where required, and will have regular interaction with the senior management.
+
+Strong data and analytical skills are a must, as is a deep expertise in credit risk modelling and IFRS 9 provision methodology. Experience in stress testing, IRB modelling, retail credit originations, Net Present Value modelling, Scorecard modelling and Capital are desirable, but not essential.
+
+🔑You’ll play a key role by...
+
+End-to-end development and maintenance of IFRS 9 models (PD, EAD, LGD)
+Construction of post-model adjustments / model overlays as and when required
+Implementation of new models 
+Development and maintenance of economic-response models for scenario simulation and impairment 
+Oversight and enhancement of model monitoring
+Presenting modelling results to 1LOD and 2LOD risk forums/committees, senior management and Execs
+Review and challenge a wider range of modelling solutions across the Borrowing collective (including IFRS 9, NPV, pricing etc.)
+Close collaboration with portfolio strategy, model validation, finance and external audit teams
+
+🤩We’d love to hear from you if…
+
+You have a strong background in IFRS 9 impairments
+You have strong end to end experience in the development and implementation of credit models (e.g PD, LGD, EAD). Experience in a validation or monitoring setting is also well regarded
+You have strong experience in monitoring ECLs and conducting driver analyses 
+You have strong analytical skills and a track record of using these to deliver technical projects
+You have a solid technical toolkit. SQL and either Python or R is a must-have, a data visualisation tool (such as Tableau, PowerBI, Looker) is a plus
+You can convey problems and solutions using clear and simple language, both written and verbal (see Monzo’s tone of voice guide). This is particularly important for communicating complex issues and priorities to non-experts
+You're impact driven and eager to have a real positive impact on the company, our products, our users and your team-mates
+You have a self-starter mindset; you proactively identify issues and opportunities and tackle them without being told to do so
+You're a team player whom your colleagues can rely on
+
+🙌What’s In It For You
+
+💰£55,000 - £95,000 ➕share options.
+
+✈️ We’ll help you relocate to the UK.
+
+✅ We can sponsor your visa.
+
+📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London)
+
+⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.
+
+📚£1,000 learning budget each year to use on books, training courses and conferences.
+
+🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.
+
+➕ Plus lots more! Read our full list of benefits.
+
+🌈 Our Interview Process Involves 4 Main Stages
+
+Recruiter Call
+Initial Call with the hiring manager
+Take Home Task (SQL)
+Final Stage interviews (x3)
+
+Our average process takes around 3-4 weeks but we will always work around your availability. You will have the chance to speak to our recruitment team at various points during your process but if you do have any specific questions ahead of this please contact us on tech-hiring@monzo.com
+
+Equal opportunities for everyone
+
+Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2023 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.
+
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.
+
+If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊

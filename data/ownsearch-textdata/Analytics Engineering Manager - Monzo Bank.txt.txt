@@ -1,0 +1,98 @@
+https://www.linkedin.com/jobs/view/4146989385/
+
+
+🚀 We’re on a mission to make money work for everyone.
+
+We’re waving goodbye to the complicated and confusing ways of traditional banking.
+
+With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!
+
+We’re not about selling products - we want to solve problems and change lives through Monzo ❤️
+
+Hear from our team about what it's like working at Monzo ✨
+
+London/Cardiff/UK Remote | 💰£92,500-£125,000 + Benefits | ✨
+
+⭐About Us
+
+Our Mission in Borrowing is to enable people's financial goals through better borrowing. Our customers look to borrow money to enable them to achieve something in their lives - whether that’s making a big life event affordable, buying something they need now without affecting their monthly budget, or getting by until payday. And we’re looking to shape this mission by building products that our customers love, whilst scaling those top revenue lines across the business safely.
+
+Data is crucial to the success of this mission and Borrowing Analytics Engineers are at the core of how we build, scale and re-architect our Borrowing Data Warehouse to enable Monzo to make better decisions, faster, and help serve Monzo’s customers better.
+
+Our Analytics Engineering discipline works in the intersection between data, engineering and our collectives - Money, Borrowing, Operations and Financial Crime and beyond.
+
+The AE teams are responsible for building downstream data models from backend services with the desire to make our Data Warehouse a genuine competitive advantage for Monzo. We want a discipline capable of building a reliable and scalable Data Warehouse to support decision making in a cost effective and performant manner.
+
+Managers within Data have two primary responsibilities; people and technical product. Your focus will be on helping engineers with their personal and professional development, listening and guiding them through hard times and celebrating their successes. You will also be leading and participating directly in technical initiatives and helping Monzo shape its Data organisation, ensuring the team focuses on valuable work, shipping things with a level of care and attention to detail.
+
+There will be a strong focus on delivering best practice across all of our data discipline and helping bring a new level of maturity around Data Governance principles, working in collaboration with others to deliver this.
+
+🔑 Working In a Multi-disciplinary Team, You Will
+
+Be a hands on leader in building a discipline of exceptional analytics working to make Data at Monzo the gold standard within the industry.
+Nurture between 2 and 6 engineers, supporting, coaching and developing high performing engineers through regular 1:1s, continuous feedback and relationships with others.
+Aid prioritisation of initiatives and projects, working closely with other leads for each of our Monzo collectives.
+Be hands on through participating in the review cycle, architecture and design leadership and development of your own changes to the pipelines
+Be part of the hiring team within Analytics Engineering
+Work closely with other leads to deliver a scalable, consistent approach to governance and best practices.
+Drive effective project management of central Analytics Engineering projects, ensuring they’re well scoped and delivered to deadlines.
+Establish yourself as a trusted partner to various collectives and the leadership team, with the capacity for getting things done, be it either hands-on or by leading others.
+We all own and support the pipelines we contribute to, and on call support out of hours will be expected from time to time as part of this role
+
+🤩 We’d love to hear from you if…
+
+You have experience managing or mentoring the performance and development of high-performing engineers.
+
+You have strong experience in data warehousing architecture at scale
+You have experience and a passion for leading data warehousing, data visualisation, big data or ETL projects as an analyst, developer, designer or architect.
+You know what it takes to hire great engineers within the data space.
+You’re equally comfortable working hands on and leading a team.
+
+Nice To Haves
+
+Any experience working within a finance or banking environment
+Experience working in a highly regulated environment (e.g. finance, insurance, gaming, food, health care).
+Experience with any of our stack of dbt, BigQuery and Looker
+
+Not ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything thats listed just yet. Drop us your application, we’d love to hear from you!
+
+🙌What’s In It For You
+
+💰£92,500-£120,000
+
+✈️ We’ll help you relocate to the UK.
+
+✅ We can sponsor your visa.
+
+📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London)
+
+⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.
+
+📚£1,000 learning budget each year to use on books, training courses and conferences.
+
+🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.
+
+➕ Plus lots more! Read our full list of benefits.
+
+🌈 The application journey has 4 key steps
+
+Our interview process involves 4 main stages. We promise not to ask you any brain teasers or trick questions!
+
+30 minute recruiter call 
+45 minute call with hiring manager 
+Take home task
+3 x 1-hour video calls with various team members
+
+Our average process takes around 3-4 weeks but we will always work around your availability. You will have the chance to speak to our recruitment team at various points during your process but if you do have any specific questions ahead of this please contact us on tech-hiring@monzo.com
+
+You’ll hear from us throughout the application process, but if you’ve got any questions, please reach out to tech-hiring@monzo.com You can also use this email address to let us know if there’s anything we can do to make the process easier for you because of disability, neurodiversity or anything else.
+
+For more insight into the AE team at Monzo, check out our podcast with John Azzopardi one of our Senior Leaders in AE
+
+Equal opportunities for everyone
+
+Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2023 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.
+
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.
+
+If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊

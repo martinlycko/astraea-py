@@ -1,0 +1,91 @@
+https://www.linkedin.com/jobs/view/3956313564/
+
+
+🚀 We’re on a mission to make money work for everyone.
+
+We’re waving goodbye to the complicated and confusing ways of traditional banking.
+
+With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!
+
+We’re not about selling products - we want to solve problems and change lives through Monzo ❤️
+
+Hear from our team about what it's like working at Monzo ✨
+
+📍London, or Remote UK | Salary £110-£140,000 + stocks + benefits | Hear from the team ✨
+
+⭐ About Operations
+
+The challenges are significant: we aim to transform customer service by reducing the time and effort required to resolve issues, enhancing customer confidence and satisfaction. As part of Operations you’ll be at the forefront of our mission to provide unparalleled customer support experiences. Your role will be pivotal in leveraging state of the art machine learning techniques including LLMs to understand customer problems, to develop an effective human-in-the loop system that augments automation with the efforts of support workforce (who we call COps) to more expediently and efficiently predict, identify, disambiguate and route customer problems at scale to support a rapidly expanding company with global ambitions across multiple geographies.
+
+You’ll be one of 4 ML engineers in Operations, embedded in product squads working alongside data scientists, backend, mobile and web engineers, product managers, user researchers, designers and operations specialists
+
+You'll Play a Key Role By
+
+We’ll be expecting you to leverage your deep experience of developing and deploying advanced Machine Learning models to:
+
+Understand customers’ problems and support needs based on a variety of inputs.
+Route customers to the right COp who can support them and globally optimise those routing decisions across millions of customers and thousands of support staff.
+Automate the resolution of customers’ support needs through autonomous agents.
+Aid customer support in decision-making and pattern detection.
+
+The technical approaches you take to solve these problems will be very much in your hands and we’ll strongly encourage and support experimentation and innovation. We’ll be expecting you to justify and demonstrate effectiveness along the way, making sure the approach meets our business and customer needs.
+
+You Should Apply If
+
+What we’re doing here at Monzo excites you!
+
+You have a track record of leading the technical work of a team in the development and deployment of advanced Machine Learning models tackling real business problems with demonstrable impact, preferably in a fast moving tech company.
+You have experience developing and shipping deep learning, graph-based, and/or sequence-based ML architectures to production and delivering business impact.
+You're impact driven and excited to own the end to end journey that starts with a business problem and ends with your solution having a measurable impact in production.
+You have experience in, and a passion for, mentoring other ML practitioners, sharing knowledge and raising the technical bar across the team.
+You have a self-starter mindset; you proactively identify the most impactful issues and opportunities and collaboratively tackle them without being told to do so.
+Using advanced machine learning techniques to directly improve customer support experiences and globally optimise routing and prioritisation across millions of customers and thousands of support staff sounds exciting to you.
+You have extensive experience writing production Python code and a strong command of SQL. You are comfortable using them every day, and keen to learn Go lang which is used in many of our backend microservices. 
+You thrive working on ambiguous problems and have a track record of helping your team and stakeholders resolve that ambiguity.
+You want to be involved in building a product that you and the people you know use every day, with a product mindset that prioritises customer outcomes and data-informed decisions.
+You're excited about fast-moving developments in Machine Learning and can communicate those ideas to colleagues who are not familiar with the domain.
+You’re adaptable, curious and enjoy learning new technologies and ideas.
+
+Nice To Haves
+
+Experience working with operations, financial crime and in regulated institutions
+Commercial experience writing critical production code and working with microservices
+
+🙌What’s In It For You
+
+✈️ We’ll help you relocate to the UK.
+
+✅ We can sponsor your visa.
+
+📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London)
+
+⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.
+
+📚£1,000 learning budget each year to use on books, training courses and conferences.
+
+🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.
+
+➕ Plus lots more! Read our full list of benefits.
+
+🌈Our interview process involves 3 main stages. 
+
+We promise not to ask you any brain teasers or trick questions!
+
+30 minute recruiter call 
+45 minute call with hiring manager 
+1 take home task 
+3 x 1-hour video calls with various team members
+
+Our average process takes around 3-4 weeks but we will always work around your availability.
+
+You will have the chance to speak to our recruitment team at various points during your process but if you do have any specific questions ahead of this please contact us on tech-hiring@monzo.com
+
+We’ll only close this role once we have enough applications for the next stage. Please submit your application as soon as possible to make sure you don’t miss out.
+
+Equal opportunities for everyone
+
+Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2023 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.
+
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.
+
+If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊
